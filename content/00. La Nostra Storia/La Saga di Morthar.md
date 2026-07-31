@@ -4,9 +4,7 @@ aliases:
   - Saga di Morthar
 ---
 
-# La Saga di Morthar
-
-## Capitolo I — Due figure presso il laghetto
+# Capitolo I — Due figure presso il laghetto
 
 Nel pomeriggio di una giornata apparentemente ordinaria, [[Shae'Kirr]] riposava in una tenda piantata accanto a un laghetto, non lontano dal [[Passo Canturiano]]. Davanti a lui si stendevano prati di erba chiara, interrotti soltanto da pochi alberi. Alla sua destra cominciava una foresta; alla sinistra si innalzavano le montagne che custodivano il [[Passo Canturiano|passo]] e, oltre di esso, [[Morthar]].
 
@@ -28,7 +26,7 @@ Quella notte, il [[Nybo|Kenoptero]] dormì all'aperto, dentro un sacco a pelo co
 
 Al sorgere del nuovo sole, i due si lavarono nel laghetto. [[Nybo]] lo fece con compostezza e riservatezza; [[Shae'Kirr]], al contrario, non mostrò il minimo pudore. Poi smontarono l'accampamento e ripresero il cammino.
 
-## Capitolo II — Le rovine di Moone
+# Capitolo II — Le rovine di Moone
 
 Poco dopo raggiunsero [[Moone]], un piccolo [[Moone|villaggio]] che appariva abbandonato, benché non ancora del tutto divorato dal tempo.
 
@@ -66,7 +64,7 @@ Quando la conversazione divenne troppo pesante, [[Nybo]] disse di avere bisogno 
 
 <!-- Inizio approssimativo della Sessione 2 -->
 
-## Capitolo III — Il Passo Canturiano
+# Capitolo III — Il Passo Canturiano
 
 Dopo essersi allontanato, [[Nybo]] si sedette con la schiena contro un muro e meditò finché il respiro non tornò regolare. Solo allora i tre lasciarono [[Moone]] e ripresero il viaggio verso il [[Passo Canturiano]].
 
@@ -118,7 +116,7 @@ Il [[Villico|villico]] riuscì a rialzarsi. Fece appena qualche movimento, poi m
 
 [[Shae'Kirr]] interrogò il [[Villico|villico]] sopravvissuto. Poi, lasciandosi alle spalle il fuoco e un morto di troppo, i tre continuarono verso [[Morthar]].
 
-## Capitolo IV — La città dei gettoni
+# Capitolo IV — La città dei gettoni
 
 Alle mura di [[Morthar]], le guardie erano impegnate a giocare a carte. [[Kumbo Yag|Kumbo]] suggerì a [[Nybo]] di fingersi malato per facilitare il loro ingresso. Ancora stordito e poco lucido, il [[Nybo|Kenoptero]] accettò.
 
@@ -184,7 +182,7 @@ Il [[Nybo|Kenoptero]] salì nella stanza al piano superiore, ma non dormì. Atte
 
 <!-- Inizio approssimativo della Sessione 2.5 -->
 
-## Interludio — Una passeggiata nella notte
+# Interludio — Una passeggiata nella notte
 
 [[Nybo]] utilizzò il foglio per lasciare un [[Nybo va a Passeggiare di Notte|messaggio]] sul tavolino, accanto a tre mele:
 
@@ -232,7 +230,7 @@ Sul retro della [[Morthar#Casa del Capovillaggio:|casa del capovillaggio]] notò
 
 <!-- Inizio approssimativo della Sessione 3 -->
 
-## Capitolo V — Pseudosfera
+# Capitolo V — Pseudosfera
 
 Quando [[Shae'Kirr]] si svegliò, trovò il [[Nybo va a Passeggiare di Notte|messaggio]] di [[Nybo]] e le tre mele. Per ricambiare quel tentativo di comunicare, lasciò accanto alle cose del [[Nybo|Kenoptero]] l'asta di una bandiera degli [[Emissario|emissari]] recuperata in precedenza, conservando per sé il vessillo vero e proprio.
 
@@ -274,7 +272,7 @@ Provarono ad avvicinare l'[[Ametista|ametista]] ai fiori in modi diversi. Alla f
 
 Poi i tre partirono per la [[MortharCave_Map|cava]].
 
-## Capitolo VI — La cava viola
+# Capitolo VI — La cava viola
 
 [[Nybo]] entrò per primo, sfruttando la propria abilità nel muoversi senza essere visto. Le lanterne lasciate dai minatori erano ancora accese, rendendo l'ambiente meno favorevole del previsto. Poco dopo individuò tre [[Non-Morto|zombie]] e tornò immediatamente all'esterno.
 
@@ -356,7 +354,7 @@ Quando riemersero, davanti a loro c'era un uomo che [[Nybo]] conosceva fin tropp
 
 Suo [[Ezio|padre]].
 
-## Capitolo VII — I volti del passato
+# Capitolo VII — I volti del passato
 
 [[Nybo]] rimase immobile.
 
@@ -448,7 +446,7 @@ Quando tutto terminò, i tre si ritrovarono finalmente fuori dalla [[MortharCave
 
 ---
 
-## Appunti da integrare
+# Appunti da integrare
 
 - Recuperare il testo mancante di `[[PassoCanturiano_Doc1]]`.
 - Aggiungere il contenuto del dialogo tra [[Shae'Kirr]] e l'[[Ulrich|anziano]] incontrato nella zona residenziale di [[Morthar]].
