@@ -1,6 +1,8 @@
 ---
 tags:
   - player
+aliases:
+  - Kumbo
 ---
 ## Informazioni Generali:
 - Nome: Kumbo Yag

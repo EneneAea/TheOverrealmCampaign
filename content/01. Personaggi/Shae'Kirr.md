@@ -1,6 +1,9 @@
 ---
 tags:
   - player
+aliases:
+  - Shae
+  - Kirr
 ---
 ## Informazioni Generali:
 - Nome: Shae'Kirr
