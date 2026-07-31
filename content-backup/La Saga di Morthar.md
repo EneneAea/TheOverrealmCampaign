@@ -1,4 +1,4 @@
----
+   ---
 title: La Saga di Morthar
 aliases:
   - Saga di Morthar
@@ -16,7 +16,7 @@ Fu il verso di un [[Pollo|pollo]] ad attirare la sua attenzione. Poco dopo, quel
 
 Lo sconosciuto reagì puntandogli contro un bastone.
 
-Era [[Nybo]], un giovane [[Kenoptero]] che non incontrava anima viva da quasi sei anni. La solitudine lo aveva reso freddo, sospettoso e pronto a difendersi da qualsiasi cosa. [[Shae'Kirr]], però, non sembrò offendersi. Gli mostrò invece un [[Dodici Kenopteri|foglio bruciacchiato raffigurante dodici volti di Kenopteri]]. Tra difficoltà di comunicazione, esitazioni e silenzi, i due arrivarono a una prima intesa: entrambi erano diretti verso [[Morthar]] e, almeno per un tratto, avrebbero potuto viaggiare insieme.
+Era [[Nybo]], un giovane [[Nybo|Kenoptero]] che non incontrava anima viva da quasi sei anni. La solitudine lo aveva reso freddo, sospettoso e pronto a difendersi da qualsiasi cosa. [[Shae'Kirr]], però, non sembrò offendersi. Gli mostrò invece un [[Dodici Kenopteri|foglio bruciacchiato raffigurante dodici volti di Kenopteri]]. Tra difficoltà di comunicazione, esitazioni e silenzi, i due arrivarono a una prima intesa: entrambi erano diretti verso [[Morthar]] e, almeno per un tratto, avrebbero potuto viaggiare insieme.
 
 [[Nybo]] chiese soltanto di poter usare il fuoco dell'accampamento e di essere lasciato in pace. [[Shae'Kirr]] accettò senza fare domande.
 
@@ -40,11 +40,11 @@ Le case erano vuote, le strade immobili. Avvicinandosi al primo edificio, [[Nybo
 
 [[Nybo]] entrò per cercare qualcosa di utile. Trovò una [[Moone_Doc1#Lettera|lettera]] che parlava delle coltivazioni del [[Moone|villaggio]]: i raccolti crescevano male, avevano un sapore amaro ed erano quasi impossibili da digerire. Le scorte, anche se razionate, non sarebbero durate a lungo. Era una testimonianza breve, ma sufficiente a suggerire che l'abbandono di [[Moone]] non fosse avvenuto all'improvviso.
 
-Trovò anche un machete e alcuni rotoli di pelle. Si mise subito al lavoro per riparare l'armatura di [[Shae'Kirr]], ma un enorme ragno calò dal soffitto e cercò di afferrarlo. [[Nybo]] rimase paralizzato dalla sorpresa; [[Shae'Kirr]] reagì invece colpendo la creatura con la mazza.
+Trovò anche un machete e alcuni rotoli di pelle. Si mise subito al lavoro per riparare l'armatura di [[Shae'Kirr]], ma un enorme [[Kumbo Yag|ragno]] calò dal soffitto e cercò di afferrarlo. [[Nybo]] rimase paralizzato dalla sorpresa; [[Shae'Kirr]] reagì invece colpendo la [[Kumbo Yag|creatura]] con la mazza.
 
-Il ragno urlò dal dolore.
+Il [[Kumbo Yag|ragno]] urlò dal dolore.
 
-Non era un mostro. Era [[Kumbo Yag]], un giovane [[Druido]] capace di assumere quella forma. Vedendo sullo scudo di [[Shae'Kirr]] il simbolo dei [[Pos Ronda]], [[Kumbo Yag|Kumbo]] si tranquillizzò abbastanza da iniziare a parlare. Anche lui era diretto verso [[Morthar]] e, soprattutto, [[Moone]] era stato il suo villaggio natale.
+Non era un mostro. Era [[Kumbo Yag]], un giovane [[Kumbo Yag|druido]] capace di assumere quella forma. Vedendo sullo scudo di [[Shae'Kirr]] il simbolo dei [[Pos Ronda]], [[Kumbo Yag|Kumbo]] si tranquillizzò abbastanza da iniziare a parlare. Anche lui era diretto verso [[Morthar]] e, soprattutto, [[Moone]] era stato il suo [[Moone|villaggio]] natale.
 
 [[Shae'Kirr]] lo accolse senza difficoltà. [[Nybo]] rimase invece sulla difensiva, irritato per essere stato assalito senza avere avuto il tempo di reagire. Nonostante la sua riluttanza, [[Kumbo Yag|Kumbo]] si unì al viaggio.
 
