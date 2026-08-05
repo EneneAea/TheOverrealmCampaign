@@ -2,6 +2,8 @@
 aliases:
   - scheletro
   - scheletri
+tags:
+  - creatura
 ---
 Creature morte e tornate in vita, ma senza carne né muscoli, sorrette come da una forma di forza incomprensibile. Spesso usano un arco come loro arma principale. Anche loro sono vulnerabili alla luce del sole.
 

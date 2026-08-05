@@ -82,7 +82,7 @@ Non tutti i documenti recuperati [[PassoCanturiano_Doc3#Testo|risultavano leggib
 
 Il [[Passo Canturiano]] era stretto. Due corsi d'acqua scorrevano ai lati della via, oltre i quali si alzavano pareti rocciose di circa dieci metri. Sopra le rocce si distinguevano terrazzamenti e abitazioni.
 
-![[Passo Canturiano#Mappa]]
+![[Passo Canturiano#Passo Canturiano]]
 
 Quando entrarono, videro alcune case in fiamme.
 
@@ -90,7 +90,7 @@ L'odore del fuoco colpì [[Nybo]] prima ancora delle immagini. Qualcosa nel suo 
 
 [[Shae'Kirr]] chiese a [[Kumbo Yag|Kumbo]] di trasformarsi in [[Kumbo Yag|ragno]] e salire lungo la scalinata di sinistra per esplorare i terrazzamenti. Il [[Kumbo Yag|druido]] obbedì. Poco dopo udì qualcuno piangere e trovò un [[Villico|villico]] dal naso pronunciato. Appena vide il [[Kumbo Yag|ragno]], l'uomo lo attaccò.
 
-«È sempre stata colpa degli [[Emissario|emissari]]!» gridò.
+«È sempre stata colpa degli [[Emissari di Shopilands|emissari]]!» gridò.
 
 [[Nybo]] sentì il pianto e si mosse senza pensare. Tentò di scalare la parete, aiutato da [[Shae'Kirr]], e raggiunse il terrazzo proprio mentre il [[Villico|villico]] feriva [[Kumbo Yag|Kumbo]], tagliandogli una zampa.
 
@@ -134,7 +134,7 @@ Nonostante tutto, riuscirono a entrare.
 
 [[Morthar]] utilizzava un'economia chiusa. Gli smeraldi e le altre valute provenienti dall'esterno non potevano essere spesi liberamente: dovevano essere scambiati con i gettoni della città attraverso canali tutt'altro che ufficiali. Le guardie indirizzarono il gruppo verso [[Stranamore]], il [[Stranamore|macellaio]].
 
-[[Shae'Kirr]], tuttavia, entrò prima in una locanda. La [[Rosa|locandiera]], [[Rosa]], era incinta. Quando l'[[Shae'Kirr|Aarakocra]] le mostrò gli smeraldi, lei lo avvertì che non erano legali e lo indirizzò a sua volta dal [[Stranamore|macellaio]]. Prima di andarsene, [[Shae'Kirr]] chiese numerose birre.
+[[Shae'Kirr]], tuttavia, entrò prima nell’osteria “La Capra Canta”, gestita da [[Rosa Smith]] che era incinta. Quando l'[[Shae'Kirr|Aarakocra]] le mostrò gli smeraldi, lei lo avvertì che non erano legali e lo indirizzò a sua volta dal [[Stranamore|macellaio]]. Prima di andarsene, [[Shae'Kirr]] chiese numerose birre.
 
 Bevve molto. Troppo.
 
@@ -154,7 +154,7 @@ Dal [[Stranamore|macellaio]] scambiarono gli smeraldi con i gettoni di [[Morthar
 
 Le guardie finsero sorpresa con una recitazione poco convincente. Erano chiaramente coinvolte nel sistema, ma [[Shae'Kirr]] non colse la corruzione e si convinse sinceramente di aver fatto giustizia.
 
-Fu allora che comparve un [[Giuda|emissario]], arrogante e teatrale. [[Nybo]] rimase nell'ombra mentre l'individuo parlava con [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]]. Non vedendo alcuna opportunità per proseguire verso il proprio obiettivo, il [[Nybo|Kenoptero]] tornò da [[Stranamore]].
+Fu allora che comparve [[Juda]], arrogante e teatrale: uno dei tre [[Emissari di Shopilands|emissari]] presenti a [[Morthar]]. [[Nybo]] rimase nell'ombra mentre l'[[Juda|emissario]] parlava con [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]]. Non vedendo alcuna opportunità per proseguire verso il proprio obiettivo, il [[Nybo|Kenoptero]] tornò da [[Stranamore]].
 
 «Esiste una fabbrica, qui a [[Morthar]], dove venivano prodotte armi in grado di sparare esplosivi?»
 
@@ -162,7 +162,7 @@ Fu allora che comparve un [[Giuda|emissario]], arrogante e teatrale. [[Nybo]] ri
 
 [[Nybo]] chiese soltanto una direzione generale e tornò dagli altri.
 
-L'[[Giuda|emissario]] condusse il gruppo attraverso una rotonda.
+L'[[Juda|emissario]] condusse il gruppo attraverso una rotonda.
 
 ![[MortharRoundabout_Map.jpeg]]
 
@@ -172,9 +172,21 @@ Proseguirono verso la zona residenziale.
 
 ![[MortharResidentialZone_Map.jpeg]]
 
-Lì incontrarono un [[Ulrich|anziano]] che conosceva [[Shae'Kirr]]. Tra i due avvenne una conversazione importante, della quale gli appunti conservano soltanto le conseguenze: l'[[Shae'Kirr|Aarakocra]] rimase con lui, mentre [[Nybo]] e [[Kumbo Yag|Kumbo]] seguirono [[Anthony]], il [[Anthony|fabbro]], fino alla sua abitazione.
+Lì incontrarono [[Ulrich]], un anziano [[Ulrich|fabbro]] dalle sembianze canine che conosceva [[Shae'Kirr]]. Il loro incontro riportò alla luce una storia molto più antica di quanto l'[[Shae'Kirr|Aarakocra]] immaginasse.
 
-[[Anthony]] era un uomo semplice, cordiale e costantemente perseguitato dalla sfortuna. Sua moglie lo tradiva proprio con [[Stranamore]]. La sua situazione suscitò immediatamente l'empatia di [[Nybo]] e [[Kumbo Yag|Kumbo]].
+A [[Lowbath]], molti anni prima, gli abitanti avevano visto una figura immobile nel cielo, sospesa sempre nello stesso punto e circondata da un bagliore violaceo. L'avevano chiamata lo [[Spettro di Lowbath|Spettro]]. [[Ulrich]] ne era stato terrorizzato; col tempo, però, quella presenza era divenuta una delle attrazioni della città, contribuendo al turismo insieme alle terme costruite successivamente.
+
+Quella figura era [[Shae'Kirr]].
+
+Il tempo, tuttavia, non era trascorso allo stesso modo per lui e per chi lo osservava dal basso. [[Shae'Kirr]] ricordava [[Ulrich]] e [[Archimbold]] mentre andavano a scuola, crescevano, diventavano adulti e infine invecchiavano: nella sua memoria, tutto sembrava essere avvenuto nel giro di pochi minuti. Per il resto del mondo erano passati circa cinquant'anni.
+
+Ricordava persino i due anziani mentre venivano accompagnati via da tre ragazzi: [[Shopi]], [[Daniel]] e [[Kay Ay]]. Quell'episodio risaliva a ventisette anni prima degli eventi presenti.
+
+[[Ulrich]] raccontò anche che [[Archimbold]], come lui un cane umanoide, era stato un [[Arcanista|arcanista]]. Aveva compiuto scoperte che considerava straordinarie, ma alle quali nessuno voleva credere. Proprio quando [[Ulrich]] aveva cominciato a prendere sul serio le sue teorie, la memoria e l'intelletto di [[Archimbold]] avevano iniziato a deteriorarsi, fino a lasciargli comportamenti sempre più simili agli istinti elementari di un cane, come abbaiare ai passanti.
+
+La conversazione non chiarì ogni mistero, ma cambiò il modo in cui [[Shae'Kirr]] guardava al proprio passato. L'[[Shae'Kirr|Aarakocra]] rimase ancora con [[Ulrich]], mentre [[Nybo]] e [[Kumbo Yag|Kumbo]] seguirono [[Anthony]], l’attuale [[Anthony|fabbro]], fino alla sua abitazione.
+
+[[Anthony]] era un uomo semplice, cordiale e costantemente perseguitato dalla sfortuna. Sua moglie, [[Rosa Smith]], lo tradiva proprio con [[Stranamore]]. La sua situazione suscitò immediatamente l'empatia di [[Nybo]] e [[Kumbo Yag|Kumbo]].
 
 Il [[Nybo|Kenoptero]] salì nella stanza al piano superiore, ma non dormì. Attese il ritorno di [[Shae'Kirr]] e, quando l'[[Shae'Kirr|Aarakocra]] arrivò, gli chiese un foglio e una matita presi dal suo diario. Dopo un'ultima conversazione con [[Anthony]], la casa si fece silenziosa.
 
@@ -210,7 +222,7 @@ Questa volta dovette rompere la serratura con il machete. All'interno trovò for
 
 Il custode si era svegliato.
 
-[[Nybo]] uscì e rimase nell'ombra. Il suo [[Passare Senza Tracce|corpo iniziò a vibrare, diventando quasi invisibile]]. Si avvicinò alle spalle dell'uomo e lo colpì al collo con una tecnica appresa da suo [[Padre Nybo|padre]]. Il custode perse i sensi. [[Nybo]] lo riportò sul soppalco e, usando una zappa, incise nel legno una precisazione:
+[[Nybo]] uscì e rimase nell'ombra. Il suo [[Passare Senza Tracce|corpo iniziò a vibrare, diventando quasi invisibile]]. Si avvicinò alle spalle dell'uomo e lo colpì al collo con una tecnica appresa da suo [[Ezio|padre]]. Il custode perse i sensi. [[Nybo]] lo riportò sul soppalco e, usando una zappa, incise nel legno una precisazione:
 
 > MORTAI RUBATI ANNI FA
 
@@ -220,23 +232,23 @@ Non avendo trovato i mortai, si diresse verso la [[MortharCave_Map|cava]] per un
 
 ![[MortharCave_Map.jpeg]]
 
-I lavoratori erano ancora presenti. All'esterno emergevano numerosi [[Ametista|cristalli di ametista]], simili al ciondolo che [[Shae'Kirr]] portava al collo. [[Nybo]] ne spezzò un frammento per analizzarlo e portarlo con sé. Poco dopo passò un [[Giuda|costrutto-emissario]] che, con atteggiamento eccentrico e narcisistico, si compiaceva dell'efficienza con cui sorvegliava la zona. Non si accorse del [[Nybo|Kenoptero]].
+I lavoratori erano ancora presenti. All'esterno emergevano numerosi [[Ametista|cristalli di ametista]], simili al ciondolo che [[Shae'Kirr]] portava al collo. [[Nybo]] ne spezzò un frammento per analizzarlo e portarlo con sé. Poco dopo passò un [[Juda|costrutto-emissario]] che, con atteggiamento eccentrico e narcisistico, si compiaceva dell'efficienza con cui sorvegliava la zona. Non si accorse del [[Nybo|Kenoptero]].
 
 Dall'esterno, [[Nybo]] vide che dentro la [[MortharCave_Map|cava]] stavano smantellando le ferrovie. L'accesso era proibito e l'interno quasi completamente buio, salvo alcune lanterne. Osservando i movimenti degli operai, comprese che esistevano due turni, uno pomeridiano e uno notturno. La mattina era l'unico momento di pausa.
 
-Prima di tornare a casa, raggiunse l'[[Morthar#Casa del Capovillaggio:|abitazione del capovillaggio]]. Lungo il percorso una [[Emissario Donna|ragazza]] dall'aspetto insolito lo vide dalla finestra, lo guardò con disgusto e chiuse bruscamente le imposte. [[Nybo]] concluse che probabilmente lo avesse scambiato per un guardone.
+Prima di tornare a casa, raggiunse l'[[Morthar#Casa del Capovillaggio:|abitazione del capovillaggio]]. Lungo il percorso una [[Lyra|ragazza]] dall'aspetto insolito lo vide dalla finestra, lo guardò con disgusto e chiuse bruscamente le imposte. [[Nybo]] concluse che probabilmente lo avesse scambiato per un guardone.
 
-Sul retro della [[Morthar#Casa del Capovillaggio:|casa del capovillaggio]] notò un'oscurità innaturale. Anche all'interno sembrava esserci un buio sospetto. Era però stanco e non voleva rischiare di essere scoperto. Rinunciò a entrare, tornò da [[Anthony]] e si addormentò.
+Sul retro della [[Morthar#Casa del Capovillaggio|casa del capovillaggio]] notò un'oscurità innaturale. Anche all'interno sembrava esserci un buio sospetto. Era però stanco e non voleva rischiare di essere scoperto. Rinunciò a entrare, tornò da [[Anthony]] e si addormentò.
 
 <!-- Inizio approssimativo della Sessione 3 -->
 
 # Capitolo V — Pseudosfera
 
-Quando [[Shae'Kirr]] si svegliò, trovò il [[Nybo va a Passeggiare di Notte|messaggio]] di [[Nybo]] e le tre mele. Per ricambiare quel tentativo di comunicare, lasciò accanto alle cose del [[Nybo|Kenoptero]] l'asta di una bandiera degli [[Emissario|emissari]] recuperata in precedenza, conservando per sé il vessillo vero e proprio.
+Quando [[Shae'Kirr]] si svegliò, trovò il [[Nybo va a Passeggiare di Notte|messaggio]] di [[Nybo]] e le tre mele. Per ricambiare quel tentativo di comunicare, lasciò accanto alle cose del [[Nybo|Kenoptero]] l'asta di una bandiera degli [[Emissari di Shopilands]] recuperata in precedenza, conservando per sé il vessillo vero e proprio.
 
 Poi andò a svegliare [[Kumbo Yag|Kumbo]]. Il [[Kumbo Yag|druido]] dormiva in una posizione assurda: metà del corpo sotto le coperte, l'altra metà fuori, con i piedi già poggiati a terra. [[Shae'Kirr]] cercò di svegliarlo con delicatezza, ma [[Kumbo Yag|Kumbo]] sobbalzò ugualmente.
 
-L'[[Shae'Kirr|Aarakocra]] gli disse che doveva punirlo per le sue menzogne. Parlando con [[Ulrich]] la sera precedente, tuttavia, aveva compreso che esistevano punizioni diverse dalla morte. Lo portò quindi in locanda per bere e parlare.
+L'[[Shae'Kirr|Aarakocra]] gli disse che doveva punirlo per le sue menzogne. Parlando con [[Ulrich]] la sera precedente, tuttavia, aveva compreso che la violenza non era l'unica forma di punizione. Lo portò quindi all’osteria per bere e parlare.
 
 Prima di affrontare davvero il discorso, [[Shae'Kirr]] gli offrì un piatto di mele fresche tagliate a fettine. Al centro aveva sistemato una mela caramellata perfetta, preparata personalmente. Poi gli chiese perché avesse mentito così tante volte.
 
@@ -248,13 +260,29 @@ Sulla via del ritorno incontrarono [[Lyra]], che mostrò loro uno strano fiore v
 
 Il [[Anthony|fabbro]] li accolse con la consueta cordialità, anche se appariva più triste del giorno precedente. Era a torso nudo e sul petto portava tatuate due parole:
 
-> Tutto passa.
+> Tutto Passa
 
 [[Kumbo Yag|Kumbo]] salì al piano superiore. Entrando inciampò, facendo scattare [[Nybo]] in piedi. Il [[Nybo|Kenoptero]] era ancora senza la parte superiore dei vestiti, lasciata nella stanza prima dell'uscita notturna, ma non sembrò particolarmente imbarazzato. Chiese soltanto un momento per ricomporsi. Prima di rivestirsi vide l'asta lasciata da [[Shae'Kirr]]: avendo perduto il proprio bastone, decise di usarla come sostituto.
 
 Una volta sceso, spiegò agli altri che doveva comunicare qualcosa di importante, possibilmente in privato. Aveva studiato i turni della [[MortharCave_Map|cava]]: entrare non era legale, ma la mattina, prima dell'arrivo dei lavoratori, avrebbe offerto la migliore possibilità d'infiltrazione.
 
 [[Shae'Kirr]] chiese soltanto di compiere prima una deviazione. [[Nybo]] accettò.
+
+Prima che il gruppo partisse, [[Lyra]] consegnò a [[Nybo]] una [[Lettera di Lyra a Nybo 1|lettera]] dal testo insolito:
+
+> *In un pozzo poco cupo si specchiò una volta un lupo, che nel poco cupo pozzo andò a battere di cozzo con un cupo tonfo fioco da smaltire a poco a poco e credette di azzannare un feroce suo compare, ma rimase brutto e cupo il feroce sciocco lupo.*
+
+Poco tempo dopo, mentre Nybo era solo, il testo cambiò:
+
+> *Qualsiasi cosa ti possano chiedere, d’ovunque ti portino, collabora.*
+> 
+> *Al resto ci penso io.*
+> 
+> *Stai tranquillo.*
+> 
+> *Lyra :)*
+
+[[Nybo]], confuso dal significato e dalla vaghezza dell'avvertimento, nonché ancora un po’ diffidente, decise di non parlarne agli altri.
 
 I tre raggiunsero [[Ulrich]] e si diressero verso casa sua. Accanto all'edificio si trovava la tomba del vecchio [[Archimbold]], [[Archimbold|professore]] conosciuto da [[Shae'Kirr]]. Era circondata da fiori viola identici a quello mostrato da [[Lyra]]. Sulla lapide compariva una parola scritta in una lingua che soltanto [[Shae'Kirr]] era in grado di comprendere:
 
@@ -268,7 +296,7 @@ Mentre [[Kumbo Yag|Kumbo]] analizzava i fiori, [[Nybo]] estrasse il frammento di
 
 Provarono ad avvicinare l'[[Ametista|ametista]] ai fiori in modi diversi. Alla fine l'[[Ametista|ametista]] si spezzò, dissolvendosi in particelle minuscole. La polvere ricadde sui petali e le piante divennero improvvisamente rigogliose.
 
-[[Ulrich]], inizialmente irritato perché stavano toccando la tomba, finì per essere felice del risultato. Rivelò allora che il vecchio [[Archimbold|professore]] era stato un arcanista. [[Shae'Kirr]] parlò del proprio interesse per l'alchimia; [[Nybo]], invece, rimase soprattutto affascinato dalla lingua della lapide e dalla parola che nessuno riusciva ancora a spiegare.
+[[Ulrich]], inizialmente irritato perché stavano toccando la tomba, finì per essere felice del risultato. Rivelò allora che il vecchio [[Archimbold|professore]] era stato un [[Arcanista|arcanista]]. [[Shae'Kirr]] parlò del proprio interesse per l'alchimia; [[Nybo]], invece, rimase soprattutto affascinato dalla lingua della lapide e dalla parola che nessuno riusciva ancora a spiegare.
 
 Poi i tre partirono per la [[MortharCave_Map|cava]].
 
@@ -362,17 +390,19 @@ Per alcuni istanti non riuscì a muoversi, paralizzato dalla figura di [[Ezio]] 
 
 Poi l'uomo parlò.
 
-«Sei solo e miserabile! Non comunichi, non ti fidi di chi ti sta vicino! Rovinerai tutto! Il silenzio... questo è il peccato che ci ha ucciso. E loro faranno la stessa fine, grazie a te! **MALFIDATO!** È questo, dunque, l'uomo che sei diventato? L'erede perfetto del nostro mortale silenzio, che ti farà rimanere solo! Non mi supererai mai... perché sei solo!»
+> «*Sei solo e miserabile! Non comunichi, non ti fidi di chi ti sta vicino! Rovinerai tutto! Il silenzio... questo è il peccato che ci ha ucciso. E loro faranno la stessa fine, grazie a te! **MALFIDATO!** È questo, dunque, l'uomo che sei diventato? L'erede perfetto del nostro mortale silenzio, che ti farà rimanere solo! Non mi supererai mai... perché sei solo!*»
 
 Ogni parola colpiva qualcosa che [[Nybo]] conosceva fin troppo bene. Non erano accuse casuali: la creatura stava usando contro di lui la paura di ripetere gli errori del proprio popolo, di allontanare chi gli era vicino e di condannarsi nuovamente alla solitudine.
 
-Quando ebbe finito, la figura si voltò verso [[Shae'Kirr]]. Nel farlo, il suo corpo cambiò. Le piume, il volto e la postura divennero quelli di un [[Aarakocra]] che nemmeno [[Shae'Kirr]] sembrava riconoscere. La creatura gli rivolse altre parole, altrettanto precise e dolorose, che in seguito nessuno dei tre riuscì a ricostruire con esattezza.
+Quando ebbe finito, la figura si voltò verso [[Shae'Kirr]]. Nel farlo, il suo corpo cambiò. Le piume, il volto e la postura divennero quelli di un [[Aarakocra]] che nemmeno [[Shae'Kirr]] sembrava riconoscere.
 
-Poi si girò verso [[Kumbo Yag|Kumbo]].
+> «*Quanto a te: la tua testardaggine ti acceca. Non è colpa tua, la vostra programmazione è così primitiva. Sporco, insulso animale. È l’incrollabile fiducia nei tuoi compagni che ti ha ridotto in miseria. Dimmi, dov’erano quando eri tu a dover essere difeso? Diffidenza e sfiducia caratterizzano l'ottavo giorno di rivendicazione, è questo il giorno del [[WAFA]], dove tu sei rimasto solo!*»
 
-Questa volta assunse le sembianze di sua madre.
+Poi si girò verso [[Kumbo Yag|Kumbo]] ed assunse le sembianze di sua madre.
 
-Anche le parole rivolte al [[Kumbo Yag|druido]] andarono perdute, ma il loro effetto fu evidente. [[Kumbo Yag|Kumbo]] rimase spaventato; [[Shae'Kirr]], invece, era furioso.
+> «*Inerme. Infermo schiavo dei tuoi pensieri. Perché non reagisci?! Patetico! È per questa paura che rimarrai solo! Non ci curerai mai, poiché sei solo! Non ci curerai mai, perché sei solo!*»
+
+L'effetto delle parole fu evidente. [[Kumbo Yag|Kumbo]] rimase spaventato; [[Shae'Kirr]], invece, era furioso.
 
 [[Nybo]] aveva ormai compreso la verità.
 
@@ -402,7 +432,13 @@ I tre sferrarono l'attacco nello stesso istante.
 
 Il colpo congiunto fu tanto violento che la creatura non riuscì ad assumere nessuna delle forme che l'avevano protetta fino a quel momento. Non cadde a terra e non lasciò dietro di sé un corpo: semplicemente scomparve.
 
-Nel punto in cui si trovava rimasero soltanto tre libri luccicanti.
+Nel punto in cui si trovava rimasero tre libri luccicanti. Sulle copertine comparivano scritte simili alla lingua che [[Shae'Kirr]] era in grado di leggere. L'[[Shae'Kirr|Aarakocra]] le decifrò:
+
+- [[Anatema 1]]
+- [[Protezione Proiettili 1]]
+- [[Protezione 1]]
+
+# Capitolo VIII — Il cuore della cava
 
 Dopo essersi ricomposti e aver raccolto ciò che la creatura aveva lasciato, i tre si prepararono a proseguire. Prima, però, [[Nybo]] volle esaminare la sala.
 
@@ -412,48 +448,64 @@ L'[[Ametista|ametista]] reagì.
 
 Un raggio esplose dalla sua superficie e attraversò la sala. [[Nybo]] riuscì a evitarlo soltanto grazie alla propria rapidità. Temendo che il [[Ametista|cristallo]] potesse colpire ancora, [[Kumbo Yag|Kumbo]] si frappose immediatamente tra esso e il compagno.
 
-Non partì un secondo raggio.
+Non partì un secondo raggio. Osservando la reazione del [[Ametista|cristallo]], [[Kumbo Yag|Kumbo]] comprese che non aveva attaccato per aggressività: aveva reagito per difendersi.
 
 I tre continuarono nella sala successiva.
 
-Era ancora più ricca di [[Ametista|cristalli]], ma la loro disposizione era diversa. Tutte le formazioni viola sembravano crescere e protendersi verso il centro della stanza. Lì si trovava un'[[Ametista|ametista rosa]], di una tonalità tanto intensa da tendere quasi al rosso.
+Era ancora più ricca di [[Ametista|cristalli]], ma la loro disposizione era diversa. Tutte le formazioni viola sembravano crescere e protendersi verso il centro della stanza. Lì si trovava un'[[Ametista Rosa|ametista rosa]], di una tonalità tanto intensa da tendere quasi al rosso.
 
-Intorno ad essa non cresceva alcun altro [[Ametista|cristallo]]. Tra la zona dominata dalle [[Ametista|ametiste viola]] e quella dell'[[Ametista|ametista rosa]] si era formato un anello vuoto, una separazione che ricordava a [[Nybo]] il [[Oscurità|vuoto]] che riusciva a percepire attraverso i propri poteri.
+Intorno ad essa non cresceva alcun altro [[Ametista|cristallo]]. Tra la zona dominata dalle [[Ametista|ametiste viola]] e quella dell'[[Ametista Rosa|ametista rosa]] si era formato un anello vuoto, una separazione che ricordava a [[Nybo]] il [[Oscurità|vuoto]] che riusciva a percepire attraverso i propri poteri.
 
 L'effetto della stanza sui tre era diverso.
 
-Fino a quel momento, la vicinanza delle [[Ametista|ametiste viola]] aveva provocato a [[Kumbo Yag|Kumbo]] mal di testa e una crescente stanchezza. In quella sala, invece, il peso sembrava attenuarsi. Il [[Kumbo Yag|druido]] sentì parte delle proprie energie tornare.
+La vicinanza delle [[Ametista|ametiste viola]] aveva già provocato a [[Kumbo Yag|Kumbo]] mal di testa e una crescente stanchezza. Avvicinandosi all'[[Ametista Rosa|ametista rosa]], però, il problema divenne più grave: il [[Kumbo Yag|druido]] sentì i propri poteri indebolirsi e sfuggirgli, come se la magia gli venisse sottratta.
 
 [[Shae'Kirr]], al contrario, venne attraversato da un dolore violento alle ali e alla schiena.
 
-Preoccupato per gli altri e colpito dalla somiglianza tra l'anello vuoto e i propri poteri, [[Nybo]] si offrì di avanzare da solo. Attraversò la separazione tra le due zone e raggiunse l'[[Ametista|ametista rosa]].
+Preoccupato per gli altri e colpito dalla somiglianza tra l'anello vuoto e i propri poteri, [[Nybo]] si offrì di avanzare da solo. Attraversò la separazione tra le due zone e raggiunse l'[[Ametista Rosa|ametista rosa]].
 
 Poi chiese a [[Shae'Kirr]] di lanciargli il piccone.
 
 Lo afferrò, osservò ancora per qualche istante il [[Ametista|cristallo]] e cominciò a sradicarlo.
 
-Quando riuscì finalmente a staccarlo, tutte le [[Ametista|ametiste viola]] della sala si ritrassero quasi nello stesso istante.
+Quando riuscì finalmente a staccarlo, tutte le [[Ametista|ametiste viola]] della sala si ritrassero quasi nello stesso istante. Vedendole reagire, [[Kumbo Yag|Kumbo]] comprese anche il significato del raggio scagliato poco prima: le [[Ametista|ametiste viola]] non stavano proteggendo sé stesse da [[Nybo]], ma dall'[[Ametista Rosa|ametista rosa]] al centro della cava.
 
 Subito dopo, particelle viola avvolsero [[Shae'Kirr]]. L'[[Shae'Kirr|Aarakocra]] scomparve e venne trasportato all'esterno della [[MortharCave_Map|cava]].
 
-[[Kumbo Yag|Kumbo]] si aggrappò a [[Nybo]], ma quando il [[Nybo|Kenoptero]] venne avvolto dal fenomeno, le particelle intorno a lui erano di un colore diverso. [[Nybo]] scomparve portando con sé l'[[Ametista|ametista rosa]], mentre [[Kumbo Yag|Kumbo]] rimase nella sala.
+[[Kumbo Yag|Kumbo]] si aggrappò a [[Nybo]], ma quando il [[Nybo|Kenoptero]] venne avvolto dal fenomeno, le particelle intorno a lui erano di un colore diverso. [[Nybo]] scomparve portando con sé l'[[Ametista Rosa|ametista rosa]], mentre [[Kumbo Yag|Kumbo]] rimase nella sala.
 
 Soltanto qualche istante dopo, anche il [[Kumbo Yag|druido]] fu circondato dalle consuete particelle viola e teletrasportato all'esterno.
 
-Era come se la presenza dell'[[Ametista|ametista rosa]] avesse interferito con la forza che li stava spostando.
+Era come se la presenza dell'[[Ametista Rosa|ametista rosa]] avesse interferito con la forza che li stava spostando, ma questo non valeva per [[Nybo]].
 
-Quando tutto terminò, i tre si ritrovarono finalmente fuori dalla [[MortharCave_Map|cava]].
+Quando tutto terminò, i tre si ritrovarono finalmente fuori dalla [[Morthar#Cava|cava]]. Ad attenderli trovarono [[Juda]], che li invitò a festeggiare all'Osteria “La Capra Canta”.
 
----
+Prima di raggiungere l'osteria, però, andarono a controllare le [[Morthar#Ex Fabbrica di Mortai|coltivazioni di Morthar]]. Il cambiamento era evidente: il terreno era guarito e i campi erano tornati rigogliosi.
 
-# Appunti da integrare
+[[Nybo]] ripensò alla sua passeggiata notturna e alle due polveri che aveva visto nel terreno, una viola e una rosa. Il collegamento gli apparve finalmente chiaro: era stata la rimozione dell'[[Ametista Rosa|ametista rosa]] a liberare le coltivazioni dall'influenza che le stava facendo ammalare.
 
-- Recuperare il testo mancante di `[[PassoCanturiano_Doc1]]`.
-- Aggiungere il contenuto del dialogo tra [[Shae'Kirr]] e l'[[Ulrich|anziano]] incontrato nella zona residenziale di [[Morthar]].
-- Inserire le mappe mancanti del [[Passo Canturiano]] e della [[Morthar#Casa del Capovillaggio:|casa del capovillaggio]], quando disponibili.
-- Recuperare le parole pronunciate dalla creatura contro [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]].
-- Identificare il contenuto e la distribuzione dei tre libri luccicanti lasciati dalla creatura.
-- Identificare e inserire l'immagine della sala dell'[[Ametista|ametista rosa]], se disponibile.
-- Verificare l'intensità esatta dell'effetto della sala su [[Kumbo Yag|Kumbo]]: il ricordo attuale indica un recupero delle energie e forse delle capacità magiche.
-- Verificare i colori e l'ordine preciso dei tre teletrasporti all'esterno della [[MortharCave_Map|cava]].
-- Ricostruire la sequenza successiva: i campi di [[Morthar]] tornarono rigogliosi e potrebbe esserci stato un festeggiamento, ma questo ricordo potrebbe appartenere a un evento successivo.
+Mentre osservavano i campi, [[Nybo]] percepì qualcuno intento a guardarlo. Si voltò, ma la figura si teletrasportò via prima che potesse riconoscerla. Soltanto in seguito avrebbe compreso che si trattava di [[Lyra]], che lo osservava già dalla notte della sua passeggiata solitaria. [[Nybo]] aveva interpretato il loro incontro alla finestra come un semplice equivoco e non aveva capito di essere seguito con attenzione.
+
+# Capitolo IX — La Capra Canta
+
+All'Osteria “La Capra Canta”, gli abitanti di [[Morthar]] festeggiarono il ritorno della fertilità dei campi insieme ai tre viaggiatori. Erano presenti anche i tre [[Emissari di Shopilands|emissari]]: [[Juda]], [[Lucius]] e [[Lyra]].
+
+Durante la serata, [[Shae'Kirr]] parlò con [[Ulrich]]. Il vecchio [[Ulrich|fabbro]] gli mostrò come muoversi correttamente indossando un'armatura, aiutandolo a correggere postura e movimenti.
+
+Più tardi [[Shae'Kirr]] si sedette davanti a una scacchiera e giocò una partita contro [[Lucius]]. [[Nybo]] rimase a osservare, cercando di comprendere le regole e la logica del gioco.
+
+Dopo quella partita, fu lui a sfidare [[Lyra]] ad una partita. [[Nybo]] non aveva mai giocato prima, eppure riuscì quasi per caso a compiere un paio di mosse degne di un maestro. [[Lyra]] ne fu sinceramente emozionata e rimase stupita dalle sue scelte.
+
+[[Kumbo Yag|Kumbo]], più apertamente degli altri, cominciò ad alludere alla possibilità che tra i due ci fosse una certa attrazione. Anche gli altri [[Emissari di Shopilands|emissari]] sembrarono divertirsi davanti alla loro intesa.
+
+Il clima di festa cambiò quando, grazie a qualcosa lasciato trapelare da [[Kumbo Yag|Kumbo]], [[Anthony]] comprese che sua moglie [[Rosa Smith]] lo tradiva con [[Stranamore]]. Il [[Anthony|fabbro]] affrontò immediatamente il [[Stranamore|macellaio]].
+
+Lo scontro fu breve. [[Anthony]] lo sconfisse con una facilità sorprendente, dimostrando di aver ricevuto un vero addestramento nel combattimento. Solo più avanti sarebbe emerso che era stato [[Ulrich]] a insegnargli a battersi.
+
+Quando [[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] fecero per lasciare l'osteria, trovarono ad aspettarli diversi uomini con maschere antigas. Vennero circondati prima che potessero reagire e gli sconosciuti si prepararono a portarli via.
+
+In quel momento [[Nybo]] ricordò la [[Lettera di Lyra a Nybo 1|lettera di Lyra]]. L'avvertimento, fino ad allora incomprensibile, coincideva con ciò che stava accadendo.
+
+Disse ai compagni di fare ciò che gli uomini ordinavano e di fidarsi di lui.
+
+I tre si lasciarono rapire.

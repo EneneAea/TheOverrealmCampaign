@@ -1,6 +1,6 @@
 ---
 tags:
-  - pergamena
+  - documento
 ---
 Una pergamena bruciacchiata ai lati da ciò che sembra essere [[Pietra Rossa|pietra rossa]].
 

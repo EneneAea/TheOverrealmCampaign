@@ -1,6 +1,7 @@
 ---
 tags:
   - player
+  - personaggio
 ---
 ## Informazioni Generali:
 - Nome: Nybo

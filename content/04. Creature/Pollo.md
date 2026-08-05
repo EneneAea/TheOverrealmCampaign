@@ -6,6 +6,8 @@ aliases:
   - galli
   - gallina
   - galline
+tags:
+  - creatura
 ---
 Una semplice creatura alata che fa buffi versi, pressoché innocua e fonte di uova, carne e piume.
 

@@ -5,6 +5,8 @@ aliases:
   - villagers
   - villico
   - villici
+tags:
+  - creatura
 ---
 E' semplicemente una persona. Pelata. E con un naso spaventosamente grosso. Ma sì, è semplicemente una persona.
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - player
+  - personaggio
 aliases:
   - Shae
   - Kirr
