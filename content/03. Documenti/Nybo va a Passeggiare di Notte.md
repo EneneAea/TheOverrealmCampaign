@@ -5,11 +5,11 @@ tags:
 Un messaggio lasciato da [[Nybo]] agli occhi di [[Shae'Kirr]].
 
 # Testo
-> Se non mi vedessi,
-> sono andato a fare una
-> PASSEGGIATA.
+> Se non mi vedessi,  
+> sono andato a fare una  
+> **PASSEGGIATA.**
+>
+> Caramellate! →
 
->Caramellate! -->
-
-## Immagine
+# Immagine
 ![[NyboMessageDrawing.jpeg]]

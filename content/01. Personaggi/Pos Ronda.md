@@ -1,5 +1,5 @@
 ---
 tags:
-  - gruppo
   - personaggio
+  - organizzazione
 ---

@@ -1,9 +1,7 @@
 ---
-title: La Saga di Morthar
 aliases:
-  - Saga di Morthar
+  - La Saga di Morthar
 ---
-
 # Capitolo I — Due figure presso il laghetto
 
 Nel pomeriggio di una giornata apparentemente ordinaria, [[Shae'Kirr]] riposava in una tenda piantata accanto a un laghetto, non lontano dal [[Passo Canturiano]]. Davanti a lui si stendevano prati di erba chiara, interrotti soltanto da pochi alberi. Alla sua destra cominciava una foresta; alla sinistra si innalzavano le montagne che custodivano il [[Passo Canturiano|passo]] e, oltre di esso, [[Morthar]].
@@ -44,6 +42,8 @@ Il [[Kumbo Yag|ragno]] urlò dal dolore.
 
 Non era un mostro. Era [[Kumbo Yag]], un giovane [[Kumbo Yag|druido]] capace di assumere quella forma. Vedendo sullo scudo di [[Shae'Kirr]] il simbolo dei [[Pos Ronda]], [[Kumbo Yag|Kumbo]] si tranquillizzò abbastanza da iniziare a parlare. Anche lui era diretto verso [[Morthar]] e, soprattutto, [[Moone]] era stato il suo [[Moone|villaggio]] natale.
 
+Per spiegare la presenza di quello stemma, [[Shae'Kirr]] raccontò che erano stati proprio i [[Pos Ronda]] ad affidargli la missione che lo conduceva a [[Morthar]]. Gli avevano consegnato lo scudo e della farina d'ossa, chiedendogli di portarla fino alla città per aiutare con i raccolti.
+
 [[Shae'Kirr]] lo accolse senza difficoltà. [[Nybo]] rimase invece sulla difensiva, irritato per essere stato assalito senza avere avuto il tempo di reagire. Nonostante la sua riluttanza, [[Kumbo Yag|Kumbo]] si unì al viaggio.
 
 La prima prova del nuovo gruppo non fu semplice. Durante l'esplorazione delle altre case, [[Shae'Kirr]] si accorse che [[Kumbo Yag|Kumbo]] evitava il combattimento contro i [[Non-Morto|non-morti]]. La paura del [[Kumbo Yag|druido]] lo irritò profondamente. Quando trovarono uno [[Scheletro|scheletro]] in un'abitazione ancora inesplorata, l'[[Shae'Kirr|Aarakocra]] cercò di costringerlo ad affrontarlo, convinto che obbligarlo a reagire fosse il modo giusto per aiutarlo a superare il terrore.
@@ -57,6 +57,8 @@ La prima prova del nuovo gruppo non fu semplice. Durante l'esplorazione delle al
 «Non è sempre stato così, questo [[Moone|villaggio]]», disse [[Kumbo Yag|Kumbo]] senza voltarsi.
 
 «Credo di capirti», rispose [[Nybo]]. «Anche il mio villaggio non esiste più.»
+
+Durante quello sfogo, [[Nybo]] rivelò anche il motivo per cui era diretto verso [[Morthar]]. Il suo villaggio era stato distrutto da colpi di mortaio. In un accampamento poco distante dalle rovine aveva trovato il nome della città e una mappa che conduceva fin lì. Da allora cercava di scoprire chi fosse responsabile del bombardamento.
 
 Senza averlo pianificato, i due cominciarono a condividere frammenti delle proprie vite. Non raccontarono tutto, ma abbastanza da riconoscere lo stesso dolore nella voce dell'altro e la stessa ombra negli occhi.
 
@@ -90,7 +92,7 @@ L'odore del fuoco colpì [[Nybo]] prima ancora delle immagini. Qualcosa nel suo 
 
 [[Shae'Kirr]] chiese a [[Kumbo Yag|Kumbo]] di trasformarsi in [[Kumbo Yag|ragno]] e salire lungo la scalinata di sinistra per esplorare i terrazzamenti. Il [[Kumbo Yag|druido]] obbedì. Poco dopo udì qualcuno piangere e trovò un [[Villico|villico]] dal naso pronunciato. Appena vide il [[Kumbo Yag|ragno]], l'uomo lo attaccò.
 
-«È sempre stata colpa degli [[Emissari di Shopilands|emissari]]!» gridò.
+«È sempre stata colpa degli [[Emissari delle Shopilands|emissari]]!» gridò.
 
 [[Nybo]] sentì il pianto e si mosse senza pensare. Tentò di scalare la parete, aiutato da [[Shae'Kirr]], e raggiunse il terrazzo proprio mentre il [[Villico|villico]] feriva [[Kumbo Yag|Kumbo]], tagliandogli una zampa.
 
@@ -134,7 +136,7 @@ Nonostante tutto, riuscirono a entrare.
 
 [[Morthar]] utilizzava un'economia chiusa. Gli smeraldi e le altre valute provenienti dall'esterno non potevano essere spesi liberamente: dovevano essere scambiati con i gettoni della città attraverso canali tutt'altro che ufficiali. Le guardie indirizzarono il gruppo verso [[Stranamore]], il [[Stranamore|macellaio]].
 
-[[Shae'Kirr]], tuttavia, entrò prima nell’osteria “La Capra Canta”, gestita da [[Rosa Smith]] che era incinta. Quando l'[[Shae'Kirr|Aarakocra]] le mostrò gli smeraldi, lei lo avvertì che non erano legali e lo indirizzò a sua volta dal [[Stranamore|macellaio]]. Prima di andarsene, [[Shae'Kirr]] chiese numerose birre.
+[[Shae'Kirr]], tuttavia, entrò prima nell’osteria “La Capra Canta”, gestita da [[Rosa Smith]], che era incinta e visibilmente malata. Tossiva spesso, anche mentre parlava con gli avventori. Quando l'[[Shae'Kirr|Aarakocra]] le mostrò gli smeraldi, lei lo avvertì che non erano legali e lo indirizzò a sua volta dal [[Stranamore|macellaio]]. Prima di andarsene, [[Shae'Kirr]] chiese numerose birre.
 
 Bevve molto. Troppo.
 
@@ -154,7 +156,7 @@ Dal [[Stranamore|macellaio]] scambiarono gli smeraldi con i gettoni di [[Morthar
 
 Le guardie finsero sorpresa con una recitazione poco convincente. Erano chiaramente coinvolte nel sistema, ma [[Shae'Kirr]] non colse la corruzione e si convinse sinceramente di aver fatto giustizia.
 
-Fu allora che comparve [[Juda]], arrogante e teatrale: uno dei tre [[Emissari di Shopilands|emissari]] presenti a [[Morthar]]. [[Nybo]] rimase nell'ombra mentre l'[[Juda|emissario]] parlava con [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]]. Non vedendo alcuna opportunità per proseguire verso il proprio obiettivo, il [[Nybo|Kenoptero]] tornò da [[Stranamore]].
+Fu allora che comparve [[Lucius]], arrogante e teatrale: uno dei tre [[Emissari delle Shopilands|emissari]] presenti a [[Morthar]]. [[Nybo]] rimase nell'ombra mentre l'[[Lucius|emissario]] parlava con [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]]. Non vedendo alcuna opportunità per proseguire verso il proprio obiettivo, il [[Nybo|Kenoptero]] tornò da [[Stranamore]].
 
 «Esiste una fabbrica, qui a [[Morthar]], dove venivano prodotte armi in grado di sparare esplosivi?»
 
@@ -162,7 +164,7 @@ Fu allora che comparve [[Juda]], arrogante e teatrale: uno dei tre [[Emissari d
 
 [[Nybo]] chiese soltanto una direzione generale e tornò dagli altri.
 
-L'[[Juda|emissario]] condusse il gruppo attraverso una rotonda.
+L'[[Lucius|emissario]] condusse il gruppo attraverso una rotonda.
 
 ![[MortharRoundabout_Map.jpeg]]
 
@@ -244,7 +246,7 @@ Sul retro della [[Morthar#Casa del Capovillaggio|casa del capovillaggio]] notò 
 
 # Capitolo V — Pseudosfera
 
-Quando [[Shae'Kirr]] si svegliò, trovò il [[Nybo va a Passeggiare di Notte|messaggio]] di [[Nybo]] e le tre mele. Per ricambiare quel tentativo di comunicare, lasciò accanto alle cose del [[Nybo|Kenoptero]] l'asta di una bandiera degli [[Emissari di Shopilands]] recuperata in precedenza, conservando per sé il vessillo vero e proprio.
+Quando [[Shae'Kirr]] si svegliò, trovò il [[Nybo va a Passeggiare di Notte|messaggio]] di [[Nybo]] e le tre mele. Per ricambiare quel tentativo di comunicare, lasciò accanto alle cose del [[Nybo|Kenoptero]] l'asta di una bandiera degli [[Emissari delle Shopilands]] recuperata in precedenza, conservando per sé il vessillo vero e proprio.
 
 Poi andò a svegliare [[Kumbo Yag|Kumbo]]. Il [[Kumbo Yag|druido]] dormiva in una posizione assurda: metà del corpo sotto le coperte, l'altra metà fuori, con i piedi già poggiati a terra. [[Shae'Kirr]] cercò di svegliarlo con delicatezza, ma [[Kumbo Yag|Kumbo]] sobbalzò ugualmente.
 
@@ -488,7 +490,7 @@ Mentre osservavano i campi, [[Nybo]] percepì qualcuno intento a guardarlo. Si v
 
 # Capitolo IX — La Capra Canta
 
-All'Osteria “La Capra Canta”, gli abitanti di [[Morthar]] festeggiarono il ritorno della fertilità dei campi insieme ai tre viaggiatori. Erano presenti anche i tre [[Emissari di Shopilands|emissari]]: [[Juda]], [[Lucius]] e [[Lyra]].
+All'Osteria “La Capra Canta”, gli abitanti di [[Morthar]] festeggiarono il ritorno della fertilità dei campi insieme ai tre viaggiatori. Erano presenti anche i tre [[Emissari delle Shopilands|emissari]]: [[Juda]], [[Lucius]] e [[Lyra]].
 
 Durante la serata, [[Shae'Kirr]] parlò con [[Ulrich]]. Il vecchio [[Ulrich|fabbro]] gli mostrò come muoversi correttamente indossando un'armatura, aiutandolo a correggere postura e movimenti.
 
@@ -496,7 +498,7 @@ Più tardi [[Shae'Kirr]] si sedette davanti a una scacchiera e giocò una partit
 
 Dopo quella partita, fu lui a sfidare [[Lyra]] ad una partita. [[Nybo]] non aveva mai giocato prima, eppure riuscì quasi per caso a compiere un paio di mosse degne di un maestro. [[Lyra]] ne fu sinceramente emozionata e rimase stupita dalle sue scelte.
 
-[[Kumbo Yag|Kumbo]], più apertamente degli altri, cominciò ad alludere alla possibilità che tra i due ci fosse una certa attrazione. Anche gli altri [[Emissari di Shopilands|emissari]] sembrarono divertirsi davanti alla loro intesa.
+[[Kumbo Yag|Kumbo]], più apertamente degli altri, cominciò ad alludere alla possibilità che tra i due ci fosse una certa attrazione. Anche gli altri [[Emissari delle Shopilands|emissari]] sembrarono divertirsi davanti alla loro intesa.
 
 Il clima di festa cambiò quando, grazie a qualcosa lasciato trapelare da [[Kumbo Yag|Kumbo]], [[Anthony]] comprese che sua moglie [[Rosa Smith]] lo tradiva con [[Stranamore]]. Il [[Anthony|fabbro]] affrontò immediatamente il [[Stranamore|macellaio]].
 
@@ -509,3 +511,101 @@ In quel momento [[Nybo]] ricordò la [[Lettera di Lyra a Nybo 1|lettera di Lyra]
 Disse ai compagni di fare ciò che gli uomini ordinavano e di fidarsi di lui.
 
 I tre si lasciarono rapire.
+
+# Capitolo X — Il peso del sospetto
+
+Il viaggio durò abbastanza da privare i tre di ogni punto di riferimento.
+
+Quando i rapitori tolsero finalmente i sacchi che coprivano loro la testa, [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]] si trovarono in una stanza sconosciuta. Soltanto [[Nybo]] comprese dove fossero. Durante la sua passeggiata notturna aveva osservato quella stessa abitazione dall'esterno e ne aveva intravisto l'oscurità innaturale.
+
+Erano nella [[Morthar#Casa del Capovillaggio|casa del capovillaggio]].
+
+I tre erano stati legati e lasciati a terra lungo una parete, vicino a un camino acceso. Davanti a loro si trovavano gli uomini con le maschere antigas, alcune guardie e il [[Capovillaggio di Morthar]].
+
+Fu quest'ultimo a prendere la parola.
+
+Il suo discorso era carico di sospetto e ostilità. Agli occhi dei [[Morthar|mortharini]], [[Shae'Kirr]] non era un [[Aarakocra]] — una razza di cui non conoscevano nemmeno il nome — ma soltanto un altro [[Kenoptero]]. Il [[Capovillaggio di Morthar|capovillaggio]] parlava quindi dei due uomini piumati come se appartenessero allo stesso popolo e come se quella somiglianza bastasse a renderli colpevoli.
+
+Sosteneva che altri [[Kenoptero|kenopteri]] fossero già giunti a [[Morthar]] in passato, portando disordine e problemi. Per anni il villaggio era riuscito a nascondere la scomparsa dei mortai; ora, proprio quando due presunti [[Kenoptero|kenopteri]] erano comparsi in città, qualcuno aveva riaperto la fossa sotto la vecchia fabbrica e riportato alla luce quel segreto.
+
+Per lui non poteva trattarsi di una coincidenza.
+
+Le accuse fecero montare la rabbia di [[Shae'Kirr]] e [[Nybo]]. Il primo veniva giudicato per una razza alla quale non apparteneva; il secondo continuava a incontrare persone che parlavano dei [[Kenoptero|kenopteri]] come di una minaccia, mentre lui stesso si rendeva conto di conoscere fin troppo poco della storia del proprio popolo.
+
+Entrambi, tuttavia, rimasero immobili.
+
+Il [[Capovillaggio di Morthar|capovillaggio]] prese un attizzatoio dal camino. La punta del ferro era diventata rossa per il calore. Lo sollevò davanti ai prigionieri, trasformando le accuse in una minaccia molto più concreta.
+
+Nemmeno [[Kumbo Yag|Kumbo]] venne risparmiato. Il [[Capovillaggio di Morthar|capovillaggio]] ricordò che, quella stessa mattina, il [[Kumbo Yag|druido]] aveva minacciato una guardia nei pressi delle coltivazioni. L'uomo era già terrorizzato dalla presenza dei presunti kenopteri, e l'impulsività di [[Kumbo Yag|Kumbo]] aveva dato alle autorità un'altra ragione per dipingere l'intero gruppo come pericoloso.
+
+[[Kumbo Yag|Kumbo]] non poteva negare di aver perso la calma. Questo, però, non rendeva giuste le conclusioni del [[Capovillaggio di Morthar|capovillaggio]], né giustificava il rapimento e le minacce.
+
+La tensione continuò a crescere.
+
+[[Shae'Kirr]] e [[Nybo]] si scambiarono appena uno sguardo. Senza pronunciare una parola, cominciarono a valutare i legami, la posizione delle guardie e la distanza che li separava dal [[Capovillaggio di Morthar|capovillaggio]]. Non serviva discutere il piano: entrambi avevano compreso quando e come avrebbero dovuto muoversi.
+
+Erano ormai vicini al limite della sopportazione quando alcune particelle violacee comparvero sopra il tavolino in fondo alla stanza.
+
+La luce si addensò rapidamente.
+
+[[Lucius]] si materializzò per primo.
+
+Il tavolino non resse il peso del suo corpo e dell'equipaggiamento. Il legno cedette sotto di lui con uno schianto, spezzandosi proprio mentre comparivano, subito dopo, [[Juda]] e [[Lyra]].
+
+Per un momento nessuno parlò.
+
+Poi i tre [[Emissari delle Shopilands|emissari]] presero il controllo della situazione.
+
+Come [[Lyra]] aveva promesso nella sua [[Lettera di Lyra a Nybo 1|lettera]], era stata soltanto una questione di tempo. Le guardie furono costrette a fermarsi e i legami dei tre prigionieri vennero sciolti. L'intervento degli emissari li aveva salvati dall'attizzatoio e da ciò che il [[Capovillaggio di Morthar|capovillaggio]] avrebbe potuto fare subito dopo.
+
+Ma [[Shae'Kirr]] non considerò chiusa la vicenda.
+
+Avrebbe potuto colpire il [[Capovillaggio di Morthar|capovillaggio]] non appena si ritrovò libero. Scelse invece di portarlo fuori dall'abitazione e di far radunare una parte consistente degli abitanti di [[Morthar]]. Se l'uomo aveva trasformato il sospetto in un'accusa pubblica contro di loro, allora avrebbe dovuto difendere le proprie azioni davanti allo stesso popolo che sosteneva di proteggere.
+
+Cominciò così un confronto acceso.
+
+Il contenuto preciso di ogni intervento si confuse presto tra proteste, accuse e risposte sovrapposte. [[Shae'Kirr]], tuttavia, riuscì a mantenere il centro della discussione sui fatti. Lui e i suoi compagni avevano liberato la [[Morthar#Cava|cava]] dall'influenza dell'[[Ametista Rosa|ametista rosa]] e le coltivazioni erano tornate fertili. In cambio erano stati rapiti, legati e minacciati senza che fosse stata presentata una prova della loro responsabilità nella scomparsa dei mortai.
+
+[[Nybo]] e [[Kumbo Yag|Kumbo]] provarono ad affiancare [[Shae'Kirr]]. I loro interventi furono meno ordinati e meno incisivi, ma contribuirono a impedire che il confronto tornasse a essere soltanto una sequenza di accuse.
+
+Alla fine, fu [[Shae'Kirr]] a imporsi nel dibattito.
+
+Non con la forza, ma con la sua capacità da guerriero stratega.
+
+La conclusione fu netta: l'uomo sarebbe stato rimosso dalla sua posizione e condotto in prigione.
+
+Prima che venisse portato via, però, due vicende si svolsero quasi nello stesso momento.
+
+[[Nybo]] tornò all'interno della casa per recuperare ciò che gli era stato sottratto. Tra i suoi oggetti trovò anche l'[[Ametista Rosa|ametista rosa]], lasciata sopra una sedia.
+
+[[Lyra]] era ancora nella stanza.
+
+Quando lo vide entrare, gli si avvicinò e gli consegnò una [[Lettera di Lyra a Nybo 2|seconda lettera]]. Avrebbe dovuto funzionare come la precedente: un testo innocuo in superficie, destinato a cambiare soltanto nelle condizioni corrette. Questa volta, però, qualcosa interferiva con l'incantesimo. Il vero messaggio era già visibile.
+
+[[Lyra]] spiegava di lavorare per il [[Shopi|Re]]. Stava indagando sugli altri [[Emissari delle Shopilands|emissari]] e aveva scoperto strane manomissioni nei registri. Il riferimento fatto poco prima da [[Lucius]], davanti al [[Capovillaggio di Morthar|capovillaggio]] e ai tre viaggiatori, l'aveva convinta che [[Nybo]] dovesse essere informato.
+
+Il [[Nybo|Kenoptero]] non ebbe il tempo di porre domande.
+
+[[Lucius]] stava rientrando.
+
+Vide [[Nybo]] con una lettera tra le mani e [[Lyra]] davanti a lui. La curiosità fu immediata. Si avvicinò, chiedendo di poter leggere ciò che vi era scritto.
+
+Per [[Nybo]], il tempo sembrò rallentare.
+
+Il messaggio avrebbe tradito [[Lyra]]. Negargli la lettera avrebbe reso entrambi ancora più sospetti. In quel brevissimo intervallo, il [[Nybo|Kenoptero]] collegò l'anomalia del testo alla presenza dell'[[Ametista Rosa|ametista rosa]]. Non conosceva ancora il funzionamento del [[Flusso Arcanocosmico]], ma aveva ormai visto il [[Ametista Rosa|cristallo]] interferire con poteri, teletrasporti ed energie invisibili.
+
+Se l'[[Ametista Rosa|ametista rosa]] impediva alla protezione della lettera di funzionare, bastava uscire dalla sua influenza.
+
+[[Nybo]] fece un rapido passo all'indietro, allontanandosi dalla sedia.
+
+Il testo cambiò.
+
+Quando [[Lucius]] prese la lettera, al posto del messaggio segreto trovò una sequenza ampollosa e priva di senso: parole abbastanza articolate da sembrare intenzionali, ma incapaci di comunicare qualcosa di comprensibile.
+
+L'[[Lucius|emissario]] lesse, non capì e restituì il foglio senza fare altre domande.
+
+Fuori dall'abitazione, intanto, [[Anthony]] aveva seguito il [[Capovillaggio di Morthar|capovillaggio]] sul retro dell'edificio. Prima che le guardie lo conducessero in prigione, il [[Anthony|fabbro]] lo colpì, sfogando contro di lui una rabbia che covava da tempo. [[Shae'Kirr]] assistette alla scena.
+
+Poco dopo, il [[Capovillaggio di Morthar|capovillaggio]] venne portato via.
+
+Il villaggio aveva ottenuto un colpevole per il rapimento dei tre, ma le parole nascoste nella seconda lettera indicavano un problema molto più grande. [[Lyra]] rispondeva direttamente al [[Shopi|Re]]. Qualcuno stava manomettendo i registri degli [[Emissari delle Shopilands|emissari]]. E, per il momento, nessuno sapeva chi potesse ancora fidarsi di chi.

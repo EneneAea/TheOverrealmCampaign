@@ -6,7 +6,7 @@ La città che, essendo un obiettivo comune, ha permesso di avvicinare i nostri t
 
 Usa un'economia chiusa, in cui la valuta esterna viene usata solamente sotto forma di spaccio in cambio dei [[Gettoni di Morthar|gettoni del luogo]], principalmente tramite l'aiuto del macellaio, [[Stranamore]].
 
-Durante la nostra avventura abbiamo trovato degli [[Emissari di Shopilands|emissari]] che sembra abbiano un'interesse nel prendere il controllo di questa città, con lo scopo di portarla ad un livello di sviluppo maggiore, come quello che c'è nel loro [[Shopilands|paese di provenienza]].
+Durante la nostra avventura abbiamo trovato degli [[Emissari delle Shopilands|emissari]] che sembra abbiano un'interesse nel prendere il controllo di questa città, con lo scopo di portarla ad un livello di sviluppo maggiore, come quello che c'è nel loro [[Shopilands|paese di provenienza]].
 
 ---
 
@@ -15,7 +15,7 @@ Durante la nostra avventura abbiamo trovato degli [[Emissari di Shopilands|emiss
 La prima zona che abbiamo raggiunto passando per il [[Passo Canturiano]].
 
 Contiene diversi negozi, tra cui:
-- Osteria “La Capra Canta”
+- Osteria “La Capra Canta” di Rosa Smith
 - Macelleria di Stranamore
 - “Pane e Acqua” di Massimo Turco
 - Distribuzione Alimenti
@@ -36,7 +36,7 @@ Al centro vi una sorta di isoletta con uno strano arco di vetro violaceo, ma sem
 ## Zona Residenziale
 La zona in cui sono concentrate tutte le abitazioni dei cittadini mortharini.
 
-Qua vi abita [[Anthony]], vi abitava [[Ulrich]] e vi si erano stazionati i tre [[Emissari di Shopilands|emissari delle Shopilands]] venuti a Morthar.
+Qua vi abita [[Anthony]], vi abitava [[Ulrich]] e vi si erano stazionati i tre [[Emissari delle Shopilands|emissari delle Shopilands]] venuti a Morthar.
 
 ![[MortharResidentialZone_Map.jpeg]]
 
