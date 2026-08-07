@@ -238,7 +238,9 @@ I lavoratori erano ancora presenti. All'esterno emergevano numerosi [[Ametista|c
 
 Dall'esterno, [[Nybo]] vide che dentro la [[MortharCave_Map|cava]] stavano smantellando le ferrovie. L'accesso era proibito e l'interno quasi completamente buio, salvo alcune lanterne. Osservando i movimenti degli operai, comprese che esistevano due turni, uno pomeridiano e uno notturno. La mattina era l'unico momento di pausa.
 
-Prima di tornare a casa, raggiunse l'[[Morthar#Casa del Capovillaggio:|abitazione del capovillaggio]]. Lungo il percorso una [[Lyra|ragazza]] dall'aspetto insolito lo vide dalla finestra, lo guardò con disgusto e chiuse bruscamente le imposte. [[Nybo]] concluse che probabilmente lo avesse scambiato per un guardone.
+Prima di tornare a casa, raggiunse l'[[Morthar#Casa del Capovillaggio:|abitazione del capovillaggio]]. Lungo il percorso passò davanti all'abitazione in cui alloggiavano gli [[Emissari delle Shopilands|emissari]]. Una [[Lyra|ragazza]] dall'aspetto insolito lo vide dalla finestra, lo guardò con disgusto e chiuse bruscamente le imposte. [[Nybo]] concluse che probabilmente lo avesse scambiato per un guardone.
+
+Non conosceva la ragazza né il suo nome, ma il luogo dell'incontro gli suggerì subito una possibilità: se quella era l'abitazione degli [[Emissari delle Shopilands|emissari]], allora era molto probabile che anche lei fosse una di loro.
 
 Sul retro della [[Morthar#Casa del Capovillaggio|casa del capovillaggio]] notò un'oscurità innaturale. Anche all'interno sembrava esserci un buio sospetto. Era però stanco e non voleva rischiare di essere scoperto. Rinunciò a entrare, tornò da [[Anthony]] e si addormentò.
 
@@ -258,7 +260,7 @@ Prima di affrontare davvero il discorso, [[Shae'Kirr]] gli offrì un piatto di m
 
 I due parlarono e, alla fine, fecero pace.
 
-Sulla via del ritorno incontrarono [[Lyra]], che mostrò loro uno strano fiore viola cresciuto davanti alla sua casa. Lo osservarono con attenzione, poi raggiunsero l'abitazione di [[Anthony]] per svegliare [[Nybo]].
+Sulla via del ritorno incontrarono [[Lyra]], che si presentò come una degli [[Emissari delle Shopilands|emissari]] e mostrò loro uno strano fiore viola cresciuto davanti alla sua casa. Lo osservarono con attenzione, poi raggiunsero l'abitazione di [[Anthony]] per svegliare [[Nybo]].
 
 Il [[Anthony|fabbro]] li accolse con la consueta cordialità, anche se appariva più triste del giorno precedente. Era a torso nudo e sul petto portava tatuate due parole:
 
@@ -270,7 +272,9 @@ Una volta sceso, spiegò agli altri che doveva comunicare qualcosa di importante
 
 [[Shae'Kirr]] chiese soltanto di compiere prima una deviazione. [[Nybo]] accettò.
 
-Prima che il gruppo partisse, [[Lyra]] consegnò a [[Nybo]] una [[Lettera di Lyra a Nybo 1|lettera]] dal testo insolito:
+Prima che il gruppo partisse, [[Lyra]] li raggiunse nuovamente. Appena la vide, [[Nybo]] la riconobbe: era la stessa ragazza che, durante la sua passeggiata notturna, gli aveva chiuso la finestra in faccia. La sua intuizione della sera precedente trovò così conferma. Quella casa era davvero l'abitazione degli [[Emissari delle Shopilands|emissari]], e la ragazza ne faceva parte. Ora conosceva anche il suo nome: [[Lyra]].
+
+Fu allora che [[Lyra]] consegnò a [[Nybo]] una [[Lettera di Lyra a Nybo 1|lettera]] dal testo insolito:
 
 > *In un pozzo poco cupo si specchiò una volta un lupo, che nel poco cupo pozzo andò a battere di cozzo con un cupo tonfo fioco da smaltire a poco a poco e credette di azzannare un feroce suo compare, ma rimase brutto e cupo il feroce sciocco lupo.*
 
@@ -299,6 +303,8 @@ Mentre [[Kumbo Yag|Kumbo]] analizzava i fiori, [[Nybo]] estrasse il frammento di
 Provarono ad avvicinare l'[[Ametista|ametista]] ai fiori in modi diversi. Alla fine l'[[Ametista|ametista]] si spezzò, dissolvendosi in particelle minuscole. La polvere ricadde sui petali e le piante divennero improvvisamente rigogliose.
 
 [[Ulrich]], inizialmente irritato perché stavano toccando la tomba, finì per essere felice del risultato. Rivelò allora che il vecchio [[Archimbold|professore]] era stato un [[Arcanista|arcanista]]. [[Shae'Kirr]] parlò del proprio interesse per l'alchimia; [[Nybo]], invece, rimase soprattutto affascinato dalla lingua della lapide e dalla parola che nessuno riusciva ancora a spiegare.
+
+Prima che se ne andassero, [[Ulrich]] mostrò loro anche una vecchia valigia appartenuta ad [[Archimbold]]. Tra gli oggetti rimasti del defunto canide vi erano tre [[Pozione di Guarigione|pozioni di guarigione]], conservate ancora intatte. Il vecchio [[Ulrich|fabbro]] decise di affidarle ai tre viaggiatori: sarebbero potute tornare utili durante ciò che li attendeva nella [[MortharCave_Map|cava]].
 
 Poi i tre partirono per la [[MortharCave_Map|cava]].
 
@@ -486,7 +492,7 @@ Prima di raggiungere l'osteria, però, andarono a controllare le [[Morthar#Ex Fa
 
 [[Nybo]] ripensò alla sua passeggiata notturna e alle due polveri che aveva visto nel terreno, una viola e una rosa. Il collegamento gli apparve finalmente chiaro: era stata la rimozione dell'[[Ametista Rosa|ametista rosa]] a liberare le coltivazioni dall'influenza che le stava facendo ammalare.
 
-Mentre osservavano i campi, [[Nybo]] percepì qualcuno intento a guardarlo. Si voltò, ma la figura si teletrasportò via prima che potesse riconoscerla. Soltanto in seguito avrebbe compreso che si trattava di [[Lyra]], che lo osservava già dalla notte della sua passeggiata solitaria. [[Nybo]] aveva interpretato il loro incontro alla finestra come un semplice equivoco e non aveva capito di essere seguito con attenzione.
+Mentre osservavano i campi, [[Nybo]] percepì qualcuno intento a guardarlo. Si voltò, ma la figura si teletrasportò via prima che potesse riconoscerla. Soltanto in seguito avrebbe compreso che si trattava di [[Lyra]]. Il fatto che fosse proprio l'emissaria incontrata quella mattina avrebbe reso ancora più difficile capire perché lo stesse osservando.
 
 # Capitolo IX — La Capra Canta
 
@@ -504,27 +510,27 @@ Il clima di festa cambiò quando, grazie a qualcosa lasciato trapelare da [[Kumb
 
 Lo scontro fu breve. [[Anthony]] lo sconfisse con una facilità sorprendente, dimostrando di aver ricevuto un vero addestramento nel combattimento. Solo più avanti sarebbe emerso che era stato [[Ulrich]] a insegnargli a battersi.
 
-Quando [[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] fecero per lasciare l'osteria, trovarono ad aspettarli diversi uomini con maschere antigas. Vennero circondati prima che potessero reagire e gli sconosciuti si prepararono a portarli via.
+Quando [[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] fecero per lasciare l'osteria, trovarono ad aspettarli diversi uomini con maschere antigas. Vennero circondati prima che potessero reagire. Gli sconosciuti diffusero nell'aria un [[Gas Sedativo|gas sedativo]] ricavato da funghi: le maschere servivano a proteggerli dagli effetti della sostanza mentre questa saturava rapidamente la zona.
 
 In quel momento [[Nybo]] ricordò la [[Lettera di Lyra a Nybo 1|lettera di Lyra]]. L'avvertimento, fino ad allora incomprensibile, coincideva con ciò che stava accadendo.
 
-Disse ai compagni di fare ciò che gli uomini ordinavano e di fidarsi di lui.
+Disse ai compagni di fare ciò che gli uomini ordinavano e di fidarsi di lui. Nessuno dei tre oppose resistenza. Poco dopo il [[Gas Sedativo|gas]] ebbe effetto: i sensi si fecero confusi e, uno dopo l'altro, persero conoscenza.
 
 I tre si lasciarono rapire.
 
 # Capitolo X — Il peso del sospetto
 
-Il viaggio durò abbastanza da privare i tre di ogni punto di riferimento.
+Nessuno dei tre seppe quanto durò il viaggio. Il [[Gas Sedativo|gas sedativo]] li mantenne incoscienti durante il trasferimento e, quando tornarono lentamente in sé, avevano già perso ogni punto di riferimento.
 
-Quando i rapitori tolsero finalmente i sacchi che coprivano loro la testa, [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]] si trovarono in una stanza sconosciuta. Soltanto [[Nybo]] comprese dove fossero. Durante la sua passeggiata notturna aveva osservato quella stessa abitazione dall'esterno e ne aveva intravisto l'oscurità innaturale.
+I rapitori avevano coperto loro la testa con dei sacchi. Quando li tolsero finalmente, [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]] si trovarono in una stanza sconosciuta. Soltanto [[Nybo]] comprese dove fossero. Durante la sua passeggiata notturna aveva osservato quella stessa abitazione dall'esterno e ne aveva intravisto l'oscurità innaturale.
 
 Erano nella [[Morthar#Casa del Capovillaggio|casa del capovillaggio]].
 
-I tre erano stati legati e lasciati a terra lungo una parete, vicino a un camino acceso. Davanti a loro si trovavano gli uomini con le maschere antigas, alcune guardie e il [[Capovillaggio di Morthar]].
+I tre erano stati legati e lasciati a terra lungo una parete, vicino a un camino acceso. Davanti a loro si trovavano gli stessi uomini che li avevano rapiti, ora senza maschere antigas, alcune guardie e il [[Miroslavo|capovillaggio di Morthar]].
 
-Fu quest'ultimo a prendere la parola.
+Fu quest'ultimo a prendere la parola. Nel corso dei primi scambi, una delle guardie si rivolse a lui chiamandolo **Miroslavo**. Era la prima volta che i tre sentivano il nome del [[Miroslavo|capovillaggio]].
 
-Il suo discorso era carico di sospetto e ostilità. Agli occhi dei [[Morthar|mortharini]], [[Shae'Kirr]] non era un [[Aarakocra]] — una razza di cui non conoscevano nemmeno il nome — ma soltanto un altro [[Kenoptero]]. Il [[Capovillaggio di Morthar|capovillaggio]] parlava quindi dei due uomini piumati come se appartenessero allo stesso popolo e come se quella somiglianza bastasse a renderli colpevoli.
+Il suo discorso era carico di sospetto e ostilità. Agli occhi dei [[Morthar|mortharini]], [[Shae'Kirr]] non era un [[Aarakocra]] — una razza di cui non conoscevano nemmeno il nome — ma soltanto un altro [[Kenoptero]]. [[Miroslavo]] parlava quindi dei due uomini piumati come se appartenessero allo stesso popolo e come se quella somiglianza bastasse a renderli colpevoli.
 
 Sosteneva che altri [[Kenoptero|kenopteri]] fossero già giunti a [[Morthar]] in passato, portando disordine e problemi. Per anni il villaggio era riuscito a nascondere la scomparsa dei mortai; ora, proprio quando due presunti [[Kenoptero|kenopteri]] erano comparsi in città, qualcuno aveva riaperto la fossa sotto la vecchia fabbrica e riportato alla luce quel segreto.
 
@@ -534,15 +540,15 @@ Le accuse fecero montare la rabbia di [[Shae'Kirr]] e [[Nybo]]. Il primo veniva 
 
 Entrambi, tuttavia, rimasero immobili.
 
-Il [[Capovillaggio di Morthar|capovillaggio]] prese un attizzatoio dal camino. La punta del ferro era diventata rossa per il calore. Lo sollevò davanti ai prigionieri, trasformando le accuse in una minaccia molto più concreta.
+Il [[Miroslavo|capovillaggio]] prese un attizzatoio dal camino. La punta del ferro era diventata rossa per il calore. Lo sollevò davanti ai prigionieri, trasformando le accuse in una minaccia molto più concreta.
 
-Nemmeno [[Kumbo Yag|Kumbo]] venne risparmiato. Il [[Capovillaggio di Morthar|capovillaggio]] ricordò che, quella stessa mattina, il [[Kumbo Yag|druido]] aveva minacciato una guardia nei pressi delle coltivazioni. L'uomo era già terrorizzato dalla presenza dei presunti kenopteri, e l'impulsività di [[Kumbo Yag|Kumbo]] aveva dato alle autorità un'altra ragione per dipingere l'intero gruppo come pericoloso.
+Nemmeno [[Kumbo Yag|Kumbo]] venne risparmiato. Il [[Miroslavo|capovillaggio]] ricordò che, quella stessa mattina, il [[Kumbo Yag|druido]] aveva minacciato una guardia nei pressi delle coltivazioni. L'uomo era già terrorizzato dalla presenza dei presunti kenopteri, e l'impulsività di [[Kumbo Yag|Kumbo]] aveva dato alle autorità un'altra ragione per dipingere l'intero gruppo come pericoloso.
 
-[[Kumbo Yag|Kumbo]] non poteva negare di aver perso la calma. Questo, però, non rendeva giuste le conclusioni del [[Capovillaggio di Morthar|capovillaggio]], né giustificava il rapimento e le minacce.
+[[Kumbo Yag|Kumbo]] non poteva negare di aver perso la calma. Questo, però, non rendeva giuste le conclusioni del [[Miroslavo|capovillaggio]], né giustificava il rapimento e le minacce.
 
 La tensione continuò a crescere.
 
-[[Shae'Kirr]] e [[Nybo]] si scambiarono appena uno sguardo. Senza pronunciare una parola, cominciarono a valutare i legami, la posizione delle guardie e la distanza che li separava dal [[Capovillaggio di Morthar|capovillaggio]]. Non serviva discutere il piano: entrambi avevano compreso quando e come avrebbero dovuto muoversi.
+[[Shae'Kirr]] e [[Nybo]] si scambiarono appena uno sguardo. Senza pronunciare una parola, cominciarono a valutare i legami, la posizione delle guardie e la distanza che li separava dal [[Miroslavo|capovillaggio]]. Non serviva discutere il piano: entrambi avevano compreso quando e come avrebbero dovuto muoversi.
 
 Erano ormai vicini al limite della sopportazione quando alcune particelle violacee comparvero sopra il tavolino in fondo alla stanza.
 
@@ -556,11 +562,11 @@ Per un momento nessuno parlò.
 
 Poi i tre [[Emissari delle Shopilands|emissari]] presero il controllo della situazione.
 
-Come [[Lyra]] aveva promesso nella sua [[Lettera di Lyra a Nybo 1|lettera]], era stata soltanto una questione di tempo. Le guardie furono costrette a fermarsi e i legami dei tre prigionieri vennero sciolti. L'intervento degli emissari li aveva salvati dall'attizzatoio e da ciò che il [[Capovillaggio di Morthar|capovillaggio]] avrebbe potuto fare subito dopo.
+Come [[Lyra]] aveva promesso nella sua [[Lettera di Lyra a Nybo 1|lettera]], era stata soltanto una questione di tempo. Le guardie furono costrette a fermarsi e i legami dei tre prigionieri vennero sciolti. L'intervento degli emissari li aveva salvati dall'attizzatoio e da ciò che il [[Miroslavo|capovillaggio]] avrebbe potuto fare subito dopo.
 
 Ma [[Shae'Kirr]] non considerò chiusa la vicenda.
 
-Avrebbe potuto colpire il [[Capovillaggio di Morthar|capovillaggio]] non appena si ritrovò libero. Scelse invece di portarlo fuori dall'abitazione e di far radunare una parte consistente degli abitanti di [[Morthar]]. Se l'uomo aveva trasformato il sospetto in un'accusa pubblica contro di loro, allora avrebbe dovuto difendere le proprie azioni davanti allo stesso popolo che sosteneva di proteggere.
+Avrebbe potuto colpire il [[Miroslavo|capovillaggio]] non appena si ritrovò libero. Scelse invece di portarlo fuori dall'abitazione e di far radunare una parte consistente degli abitanti di [[Morthar]]. Se l'uomo aveva trasformato il sospetto in un'accusa pubblica contro di loro, allora avrebbe dovuto difendere le proprie azioni davanti allo stesso popolo che sosteneva di proteggere.
 
 Cominciò così un confronto acceso.
 
@@ -582,7 +588,7 @@ Prima che venisse portato via, però, due vicende si svolsero quasi nello stesso
 
 Quando lo vide entrare, gli si avvicinò e gli consegnò una [[Lettera di Lyra a Nybo 2|seconda lettera]]. Avrebbe dovuto funzionare come la precedente: un testo innocuo in superficie, destinato a cambiare soltanto nelle condizioni corrette. Questa volta, però, qualcosa interferiva con l'incantesimo. Il vero messaggio era già visibile.
 
-[[Lyra]] spiegava di lavorare per il [[Shopi|Re]]. Stava indagando sugli altri [[Emissari delle Shopilands|emissari]] e aveva scoperto strane manomissioni nei registri. Il riferimento fatto poco prima da [[Lucius]], davanti al [[Capovillaggio di Morthar|capovillaggio]] e ai tre viaggiatori, l'aveva convinta che [[Nybo]] dovesse essere informato.
+[[Lyra]] spiegava di lavorare per il [[Shopi|Re]]. Stava indagando sugli altri [[Emissari delle Shopilands|emissari]] e aveva scoperto strane manomissioni nei registri. Il riferimento fatto poco prima da [[Lucius]], davanti al [[Miroslavo|capovillaggio]] e ai tre viaggiatori, l'aveva convinta che [[Nybo]] dovesse essere informato.
 
 Il [[Nybo|Kenoptero]] non ebbe il tempo di porre domande.
 
@@ -604,8 +610,170 @@ Quando [[Lucius]] prese la lettera, al posto del messaggio segreto trovò una se
 
 L'[[Lucius|emissario]] lesse, non capì e restituì il foglio senza fare altre domande.
 
-Fuori dall'abitazione, intanto, [[Anthony]] aveva seguito il [[Capovillaggio di Morthar|capovillaggio]] sul retro dell'edificio. Prima che le guardie lo conducessero in prigione, il [[Anthony|fabbro]] lo colpì, sfogando contro di lui una rabbia che covava da tempo. [[Shae'Kirr]] assistette alla scena.
+Fuori dall'abitazione, intanto, [[Anthony]] aveva seguito il [[Miroslavo|capovillaggio]] sul retro dell'edificio. Prima che le guardie lo conducessero in prigione, il [[Anthony|fabbro]] lo colpì, sfogando contro di lui una rabbia che covava da tempo. [[Shae'Kirr]] assistette alla scena.
 
-Poco dopo, il [[Capovillaggio di Morthar|capovillaggio]] venne portato via.
+Poco dopo, il [[Miroslavo|capovillaggio]] venne portato via.
 
 Il villaggio aveva ottenuto un colpevole per il rapimento dei tre, ma le parole nascoste nella seconda lettera indicavano un problema molto più grande. [[Lyra]] rispondeva direttamente al [[Shopi|Re]]. Qualcuno stava manomettendo i registri degli [[Emissari delle Shopilands|emissari]]. E, per il momento, nessuno sapeva chi potesse ancora fidarsi di chi.
+
+# Capitolo XI — Tre mesi e una porta sfondata
+
+Dopo che [[Miroslavo]] fu condotto in prigione, [[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] si ritrovarono nuovamente a casa di [[Ulrich]].
+
+Il vecchio [[Ulrich|fabbro]] aveva ancora con sé diversi oggetti appartenuti ad [[Archimbold]]. Durante la visita precedente aveva mostrato ai tre una vecchia valigia del defunto canide, nella quale erano rimaste tre [[Pozione di Guarigione|pozioni di guarigione]]. Questa volta, però, volle mostrare qualcosa in particolare a [[Shae'Kirr]].
+
+Era uno strano [[Alambicco|strumento]] che [[Archimbold]] utilizzava per i propri esperimenti.
+
+[[Ulrich]] ricordava bene l'interesse che l'[[Shae'Kirr|Aarakocra]] aveva espresso per l'alchimia durante il loro incontro precedente. Per questo decise di affidarglielo. Se qualcuno poteva trovare un nuovo utilizzo per uno degli strumenti del vecchio [[Arcanista|arcanista]], pensò, probabilmente era proprio lui.
+
+Fu allora che [[Nybo]] fece qualcosa che, fino a pochi giorni prima, gli sarebbe sembrato quasi innaturale.
+
+Raccontò ai suoi compagni della [[Lettera di Lyra a Nybo 2|seconda lettera di Lyra]].
+
+Cercò di farlo senza permettere a [[Ulrich]] di ascoltare ogni dettaglio, ma non nascose più nulla a [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]]. Spiegò che [[Lyra]] lavorava direttamente per il [[Shopi|Re]], che sospettava manomissioni nei registri degli [[Emissari delle Shopilands|emissari]] e che qualcuno, tra loro, poteva essere coinvolto in qualcosa di molto più grande.
+
+Era un cambiamento piccolo soltanto in apparenza.
+
+Per anni [[Nybo]] era sopravvissuto tenendo per sé ogni informazione, ogni paura e quasi ogni pensiero. Anche dopo aver incontrato gli altri due aveva continuato a comportarsi come se condividere qualcosa significasse esporsi a un pericolo. Adesso, invece, cominciava a capire che alcuni problemi diventavano più semplici quando non cercava di affrontarli da solo.
+
+E, quasi senza accorgersene, anche il resto del suo carattere stava cambiando. La rigidità con cui si era presentato al laghetto si stava sciogliendo. Parlava di più, reagiva con maggiore spontaneità e, ogni tanto, lasciava emergere un lato molto meno cupo e molto più buffo di quanto chiunque avrebbe immaginato al loro primo incontro.
+
+I tre elaborarono così un piano.
+
+Aveva due obiettivi.
+
+Il primo era entrare nell'abitazione degli [[Emissari delle Shopilands|emissari]] e cercare qualche indizio che potesse confermare o smentire i sospetti di [[Lyra]].
+
+Il secondo nacque soprattutto dall'entusiasmo di [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]]:
+
+fare in modo che [[Nybo]] ci provasse con [[Lyra]].
+
+Il [[Nybo|Kenoptero]] non condivideva affatto lo stesso entusiasmo.
+
+Non era nemmeno sicuro di provare realmente qualcosa per lei. Non che [[Lyra]] gli sembrasse poco attraente; semplicemente era un'[[Umano|umana]], lui un [[Kenoptero]], e soprattutto [[Nybo]] non aveva mai avuto una relazione in vita sua. Non possedeva alcuna esperienza alla quale affidarsi e non vedeva perché proprio quella dovesse diventare improvvisamente una missione di gruppo.
+
+Ma i suoi compagni facevano il tifo per lui con una convinzione difficile da ignorare.
+
+Alla fine cedette.
+
+Restava un problema evidente: il suo aspetto.
+
+I vestiti di [[Nybo]] erano logori e il suo modo di presentarsi portava ancora addosso gli anni trascorsi da solo. Per un'operazione tanto delicata, secondo gli altri, serviva qualcosa di meglio.
+
+Cominciò quindi una trasformazione alla quale partecipò persino [[Ulrich]]. Con un poco di [[Slime (oggetto)|gelatina]] riuscirono a sistemare le piume sulla testa del [[Nybo|Kenoptero]], modellandole fino a ottenere un aspetto sorprendentemente ordinato ed elegante. [[Ulrich]] recuperò poi alcuni vecchi abiti appartenuti ad [[Archimbold]], abbastanza raffinati da completare il lavoro.
+
+Quando ebbero finito, persino [[Nybo]] dovette riconoscere che il risultato era notevole.
+
+Era pronto.
+
+O, almeno, aveva l'aspetto di qualcuno che lo fosse.
+
+Mancava soltanto liberare la casa dagli altri due emissari.
+
+Quello era il compito di [[Shae'Kirr]].
+
+L'[[Shae'Kirr|Aarakocra]] raggiunse l'abitazione e bussò alla porta.
+
+Nessuno rispose.
+
+Bussò una seconda volta, più forte.
+
+Da dentro arrivò finalmente la voce di [[Lucius]].
+
+«Certo, un vero guerriero può bussare molto più forte di così.»
+
+[[Shae'Kirr]] prese la frase come una sfida.
+
+Bussò ancora.
+
+[[Lucius]] lo provocò di nuovo.
+
+La sequenza continuò finché, inevitabilmente, [[Shae'Kirr]] smise di bussare alla porta e la sfondò.
+
+A quel punto [[Lucius]] e [[Juda]] uscirono insieme a lui. I tre si diressero verso l'Osteria “La Capra Canta”, lasciando nell'abitazione soltanto [[Lyra]].
+
+Il diversivo aveva funzionato.
+
+Poco dopo arrivarono [[Nybo]] e [[Kumbo Yag|Kumbo]], quest'ultimo trasformato in un gatto nero.
+
+La prima cosa che videro fu la porta sfondata.
+
+La seconda fu [[Lyra]], ancora in pigiama, che osservava ciò che ne restava con un'espressione incredula.
+
+[[Nybo]] la salutò e varcò la soglia cercando disperatamente di sembrare più sicuro di quanto fosse. Gli abiti eleganti e le piume perfettamente sistemate facevano il loro dovere; il suo modo di parlare, molto meno.
+
+Si sedettero a un tavolo.
+
+[[Kumbo Yag|Kumbo]], sotto forma di gatto, cercò di rendersi innocuo.
+
+[[Lyra]] lo fissò.
+
+Non impiegò nemmeno un minuto a capire.
+
+Afferrò il gatto e lo lanciò fuori dalla casa.
+
+[[Kumbo Yag|Kumbo]] non si arrese e continuò a osservare la scena dalle finestre.
+
+Rimasto solo con lei, [[Nybo]] provò a concentrarsi sul motivo ufficiale della visita. Le disse che era disposto ad aiutarla e le chiese cosa potesse fare per la sua indagine. La conversazione continuò ancora per poco, senza produrre un vero passo avanti.
+
+Poi [[Lyra]], con la delicatezza che sembrava riservare soprattutto a lui, lo accompagnò fuori a calci.
+
+[[Nybo]] tornò da [[Ulrich]].
+
+Il vecchio lo vide rientrare praticamente senza aver concluso nulla e scosse la testa.
+
+«Non hai avuto il coraggio. Devi tirare fuori le palle.»
+
+[[Nybo]] non sembrava convinto. Cercò di spiegargli che era entrato, aveva parlato con lei e che, alla fine, [[Lyra]] lo aveva letteralmente cacciato a calci.
+
+[[Ulrich]] ascoltò con grande serietà.
+
+Poi mentì spudoratamente.
+
+Secondo lui, essere cacciati a calci da una ragazza era un segnale chiarissimo del fatto che quella ragazza fosse interessata.
+
+[[Nybo]] non aveva abbastanza esperienza per stabilire quanto quella teoria fosse assurda.
+
+Così tornò indietro.
+
+Raggiunse di nuovo [[Lyra]], raccolse tutto il coraggio che gli rimaneva e balbettò:
+
+«Ti... ti va di passare un po' di tempo insieme?»
+
+Qualunque cosa [[Lyra]] avesse letto in quella domanda, la colpì molto più di quanto [[Nybo]] si aspettasse.
+
+Lo afferrò per la maglia e lo trascinò con sé.
+
+Per [[Nybo]] fu la prima esperienza davvero intima della sua vita e la sua totale inesperienza divenne evidente quasi immediatamente (poverino, non è riuscito a trattenersi)... Mortificato all'idea che tutto finisse lì, trovò però una soluzione decisamente personale: sfruttò la capacità di far vibrare il proprio corpo per ricambiare le attenzioni di [[Lyra]].
+
+L'idea funzionò meglio di quanto lui stesso avrebbe potuto prevedere. ***Molto*** meglio.
+
+Nel frattempo [[Kumbo Yag|Kumbo]], ancora deciso a spiare dalle finestre, vide improvvisamente ogni cosa scomparire dentro una sfera di [[Oscurità|oscurità totale]]. [[Nybo]] aveva pensato anche a lui.
+
+Quando l'incontro terminò, [[Lyra]] tornò rapidamente ai suoi consueti modi affettuosi: [[Nybo]] venne nuovamente buttato fuori, questa volta praticamente nudo e con i vestiti stretti tra le braccia.
+
+Il [[Nybo|Kenoptero]] non sembrò particolarmente turbato. Le piume coprivano buona parte del corpo e, soprattutto, era troppo soddisfatto di sé per preoccuparsi davvero della situazione. Si coprì alla meglio e tornò verso casa di [[Ulrich]].
+
+Quando il vecchio lo vide arrivare, rimase per qualche istante in silenzio.
+
+«Pensavo saresti morto là dentro.»
+
+A quanto pareva, nemmeno lui aveva creduto davvero ai propri consigli.
+
+Poi gli ordinò di andare immediatamente a lavarsi.
+
+Mentre [[Nybo]] affrontava le conseguenze della propria missione, all'Osteria “La Capra Canta” [[Shae'Kirr]] portava avanti una trattativa decisamente diversa.
+
+Seduto con [[Lucius]] e [[Juda]], discusse del futuro di [[Morthar]] e della possibilità che gli [[Emissari delle Shopilands|emissari]] assumessero direttamente il controllo della città. I dettagli dell'accordo rimasero complessi e non tutti sarebbero stati ricordati con precisione (AGGIUNGERE DETTAGLI), ma [[Shae'Kirr]] riuscì a ottenere un punto fondamentale: **tre mesi di tempo** prima che venisse presa una decisione definitiva.
+
+La discussione non rimase soltanto politica.
+
+A un certo punto [[Shae'Kirr]] e [[Juda]] si sfidarono a braccio di ferro. Contro un automa gigantesco, il risultato era forse prevedibile: [[Shae'Kirr]] perse.
+
+La sconfitta, tuttavia, non diminuì il rispetto degli altri due emissari. Al contrario, [[Lucius]] e [[Juda]] riconobbero nel suo atteggiamento lo spirito di un vero guerriero e accettarono quanto era stato concordato.
+
+Quando [[Shae'Kirr]] tornò da [[Ulrich]], trovò [[Nybo]] intento a lavarsi.
+
+I due avevano trascorso le ultime ore in missioni molto diverse.
+
+Si raccontarono a vicenda ciò che era successo.
