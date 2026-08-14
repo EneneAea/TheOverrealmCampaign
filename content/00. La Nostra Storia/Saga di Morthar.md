@@ -190,7 +190,11 @@ La conversazione non chiarì ogni mistero, ma cambiò il modo in cui [[Shae'Kirr
 
 [[Anthony]] era un uomo semplice, cordiale e costantemente perseguitato dalla sfortuna. Sua moglie, [[Rosa Smith]], lo tradiva proprio con [[Stranamore]]. La sua situazione suscitò immediatamente l'empatia di [[Nybo]] e [[Kumbo Yag|Kumbo]].
 
-Il [[Nybo|Kenoptero]] salì nella stanza al piano superiore, ma non dormì. Attese il ritorno di [[Shae'Kirr]] e, quando l'[[Shae'Kirr|Aarakocra]] arrivò, gli chiese un foglio e una matita presi dal suo diario. Dopo un'ultima conversazione con [[Anthony]], la casa si fece silenziosa.
+Il [[Nybo|Kenoptero]] salì nella stanza al piano superiore, ma non dormì. Attese il ritorno di [[Shae'Kirr]] e, quando l'[[Shae'Kirr|Aarakocra]] arrivò, gli chiese un foglio e una matita presi dal suo diario.
+
+Prima che la casa si facesse silenziosa, [[Anthony]] chiese ai tre un unico favore in cambio dell'ospitalità. Aveva bisogno di ferro dalla [[MortharCave_Map|cava]], ma il [[Miroslavo|capovillaggio]] aveva smesso di fornirgliene. Tra i due esisteva infatti un attrito che andava oltre le normali difficoltà del fabbro: [[Anthony]] aveva permesso agli [[Emissari delle Shopilands|emissari]] di entrare a [[Morthar]], una scelta che [[Miroslavo]] non aveva affatto gradito. Da allora, il rifornimento di ferro si era interrotto.
+
+[[Anthony]] non chiese altro ai suoi ospiti. Se avessero potuto recuperargli del ferro dalla miniera, per lui sarebbe stato sufficiente.
 
 [[Shae'Kirr]] e [[Kumbo Yag|Kumbo]] si addormentarono.
 
@@ -230,9 +234,7 @@ Il custode si era svegliato.
 
 Esplorò infine il terzo capannone, riuscendo questa volta ad aprire la porta senza danneggiare la serratura. Dentro si estendeva un campo di grano che non cresceva come avrebbe dovuto. Il terreno ricordava a [[Nybo]] le strane coltivazioni di [[Moone]] e il sapore anomalo della carota mangiata poco prima. Osservando con attenzione, individuò due polveri naturali, una rossa e una viola, che sembravano respingersi a vicenda.
 
-Non avendo trovato i mortai, si diresse verso la [[MortharCave_Map|cava]] per un sopralluogo.
-
-![[MortharCave_Map.jpeg]]
+Non avendo trovato i mortai, [[Nybo]] decise di sfruttare il resto della passeggiata per preparare anche il favore chiesto da [[Anthony]]. Si diresse quindi verso la [[MortharCave_Map|cava]] per capire quanto sarebbe stato difficile entrare nella miniera e recuperare il ferro senza essere scoperti.
 
 I lavoratori erano ancora presenti. All'esterno emergevano numerosi [[Ametista|cristalli di ametista]], simili al ciondolo che [[Shae'Kirr]] portava al collo. [[Nybo]] ne spezzò un frammento per analizzarlo e portarlo con sé. Poco dopo passò un [[Juda|costrutto-emissario]] che, con atteggiamento eccentrico e narcisistico, si compiaceva dell'efficienza con cui sorvegliava la zona. Non si accorse del [[Nybo|Kenoptero]].
 
@@ -270,6 +272,16 @@ Il [[Anthony|fabbro]] li accolse con la consueta cordialità, anche se appariva 
 
 Una volta sceso, spiegò agli altri che doveva comunicare qualcosa di importante, possibilmente in privato. Aveva studiato i turni della [[MortharCave_Map|cava]]: entrare non era legale, ma la mattina, prima dell'arrivo dei lavoratori, avrebbe offerto la migliore possibilità d'infiltrazione.
 
+Era esattamente l'informazione di cui avevano bisogno per mantenere la promessa fatta ad [[Anthony]]. Se volevano recuperare il ferro che [[Miroslavo]] non gli forniva più, quella finestra di tempo sembrava la più sicura.
+
+Quando anche [[Ulrich]] li raggiunse e i tre furono nuovamente riuniti, il vecchio [[Ulrich|fabbro]] mostrò loro una vecchia valigetta appartenuta ad [[Archimbold]]. La valigetta non era custodita a casa sua, ma nell'abitazione di [[Anthony]], dove era rimasta insieme ad alcuni effetti del defunto canide.
+
+All'interno trovarono tre [[Pozione di Guarigione|pozioni di guarigione]], ancora intatte, e una [[Lettera nella Valigia di Archimbold|lettera]] firmata da [[Shopi|Re Shopi]]:
+
+(TESTO MANCANTE)
+
+[[Ulrich]] lasciò ai tre le pozioni: sarebbero potute tornare utili proprio durante ciò che li attendeva nella [[MortharCave_Map|cava]].
+
 [[Shae'Kirr]] chiese soltanto di compiere prima una deviazione. [[Nybo]] accettò.
 
 Prima che il gruppo partisse, [[Lyra]] li raggiunse nuovamente. Appena la vide, [[Nybo]] la riconobbe: era la stessa ragazza che, durante la sua passeggiata notturna, gli aveva chiuso la finestra in faccia. La sua intuizione della sera precedente trovò così conferma. Quella casa era davvero l'abitazione degli [[Emissari delle Shopilands|emissari]], e la ragazza ne faceva parte. Ora conosceva anche il suo nome: [[Lyra]].
@@ -303,8 +315,6 @@ Mentre [[Kumbo Yag|Kumbo]] analizzava i fiori, [[Nybo]] estrasse il frammento di
 Provarono ad avvicinare l'[[Ametista|ametista]] ai fiori in modi diversi. Alla fine l'[[Ametista|ametista]] si spezzò, dissolvendosi in particelle minuscole. La polvere ricadde sui petali e le piante divennero improvvisamente rigogliose.
 
 [[Ulrich]], inizialmente irritato perché stavano toccando la tomba, finì per essere felice del risultato. Rivelò allora che il vecchio [[Archimbold|professore]] era stato un [[Arcanista|arcanista]]. [[Shae'Kirr]] parlò del proprio interesse per l'alchimia; [[Nybo]], invece, rimase soprattutto affascinato dalla lingua della lapide e dalla parola che nessuno riusciva ancora a spiegare.
-
-Prima che se ne andassero, [[Ulrich]] mostrò loro anche una vecchia valigia appartenuta ad [[Archimbold]]. Tra gli oggetti rimasti del defunto canide vi erano tre [[Pozione di Guarigione|pozioni di guarigione]], conservate ancora intatte. Il vecchio [[Ulrich|fabbro]] decise di affidarle ai tre viaggiatori: sarebbero potute tornare utili durante ciò che li attendeva nella [[MortharCave_Map|cava]].
 
 Poi i tre partirono per la [[MortharCave_Map|cava]].
 
@@ -620,7 +630,7 @@ Il villaggio aveva ottenuto un colpevole per il rapimento dei tre, ma le parole 
 
 Dopo che [[Miroslavo]] fu condotto in prigione, [[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] si ritrovarono nuovamente a casa di [[Ulrich]].
 
-Il vecchio [[Ulrich|fabbro]] aveva ancora con sé diversi oggetti appartenuti ad [[Archimbold]]. Durante la visita precedente aveva mostrato ai tre una vecchia valigia del defunto canide, nella quale erano rimaste tre [[Pozione di Guarigione|pozioni di guarigione]]. Questa volta, però, volle mostrare qualcosa in particolare a [[Shae'Kirr]].
+Il vecchio [[Ulrich|fabbro]] conservava ancora diversi oggetti appartenuti ad [[Archimbold]]. Quella stessa mattina, a casa di [[Anthony]], aveva già mostrato ai tre la vecchia valigetta del defunto canide, con le tre [[Pozione di Guarigione|pozioni di guarigione]] e la lettera firmata da [[Shopi|Re Shopi]]. Questa volta, però, volle mostrare qualcosa in particolare a [[Shae'Kirr]].
 
 Era uno strano [[Alambicco|strumento]] che [[Archimbold]] utilizzava per i propri esperimenti.
 
@@ -777,3 +787,102 @@ Quando [[Shae'Kirr]] tornò da [[Ulrich]], trovò [[Nybo]] intento a lavarsi.
 I due avevano trascorso le ultime ore in missioni molto diverse.
 
 Si raccontarono a vicenda ciò che era successo.
+
+# Capitolo XII — L'assalto a Morthar
+
+Per qualche momento sembrò che [[Morthar]] potesse finalmente concedere loro un altro intervallo di tranquillità.
+
+Poi risuonò un corno.
+
+Il suono era profondo e violento, simile a quello di un corno da guerra. Subito dopo arrivarono rumori ancora più forti: colpi che ricordavano esplosioni, seguiti dallo schianto di strutture che cedevano e mura che venivano abbattute.
+
+La città precipitò nel caos.
+
+Le persone cominciarono a correre senza una direzione precisa, cercando riparo mentre da più parti arrivavano nuove urla e nuovi crolli. [[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] si mossero insieme ad [[Ulrich]] e [[Anthony]] con un obiettivo immediato: mettere in salvo quanti più civili possibile.
+
+Ben presto [[Ulrich]] e [[Anthony]] si separarono dal gruppo per raggiungere altre zone della città. Nessuno dei tre cercò di fermarli. Entrambi sapevano combattere e, in quel momento, disperdere le forze significava poter aiutare più persone.
+
+I protagonisti raggiunsero la rotonda al centro di [[Morthar]]. Da lì cercarono di indirizzare gli abitanti verso la zona residenziale, che sembrava offrire maggiori possibilità di riparo. Convincevano chi incontravano a non fermarsi, a non tornare indietro e a muoversi insieme agli altri.
+
+Continuarono poi verso la zona commerciale.
+
+Fu lì che [[Nybo]] vide una donna rimasta isolata. Davanti a lei c'era un predone armato che la stava minacciando.
+
+Il [[Nybo|Kenoptero]] non riuscì a restare a guardare.
+
+Richiamò immediatamente gli altri e partì all'attacco.
+
+Lo scontro fu rapido. I tre riuscirono a costringere il predone a lasciare libera la donna, dandole il tempo di fuggire verso una zona più sicura. Per qualche istante sembrò che il pericolo fosse stato risolto.
+
+Poi si guardarono attorno.
+
+Erano circondati.
+
+Alle loro spalle, a chiudere l'uscita dal vicolo, avanzavano enormi [[Ravager|creature deformi]]. Erano creature alte quasi il doppio di loro, con volti che ricordavano quelli dei [[Villico|villici]] ma deformati fino a diventare mostruosi. La loro forza era sufficiente a spezzare le mura della città come se fossero ostacoli qualunque.
+
+Davanti ai protagonisti si trovavano altri predoni. Più lontano, in posizione sicura, alcuni arcieri avevano già preparato le armi.
+
+Non sembrava esistere una via d'uscita.
+
+Le [[Ravager|creature]] impedivano la ritirata. I predoni chiudevano il fronte. Gli arcieri potevano colpirli da lontano. Qualunque direzione avessero scelto, qualcosa li avrebbe raggiunti prima che potessero fuggire.
+
+Per un istante sembrò davvero la fine.
+
+Poi [[Lyra]] comparve alle loro spalle.
+
+Fu tanto improvviso da sembrare che fosse emersa dal nulla. Non perse tempo a spiegare come li avesse raggiunti. Davanti a lei si aprirono tre cerchi simili a portali e, attraverso di essi, emersero enormi lupi scuri come il vuoto. Erano grandi quasi quanto le [[Ravager|deformi creature]] che bloccavano il vicolo.
+
+[[Lyra]] rimase immobile.
+
+Quando parlò, però, la sua voce non uscì dalla sua bocca.
+
+Furono i lupi a parlare per lei.
+
+Attraverso le loro fauci spiegò rapidamente ai tre che li avrebbe aiutati contro le creature più grandi. Loro avrebbero dovuto occuparsi dei predoni e, soprattutto, proteggere il suo corpo. Mentre controllava i lupi non era in grado di difendersi da sola: il suo corpo sarebbe rimasto esposto.
+
+Non c'era tempo per fare domande.
+
+La battaglia cominciò.
+
+I lupi di [[Lyra]] si scagliarono contro le [[Ravager|creature]]. Ricevettero colpi abbastanza forti da abbattere un uomo, ma continuarono a combattere come se il dolore avesse poca presa su di loro.
+
+[[Shae'Kirr]], [[Nybo]] e [[Kumbo Yag|Kumbo]] si concentrarono invece sui predoni. Non cercavano di massacrarli: quando possibile li colpivano per stordirli e renderli incapaci di continuare a combattere. Quasi tutti finirono a terra ancora vivi. Uno soltanto morì durante lo scontro, una vittima che non riuscirono a evitare.
+
+Rimanevano gli arcieri.
+
+Le frecce cominciarono a raggiungere il vicolo. Una di esse superò i protagonisti e colpì il corpo immobile di [[Lyra]]. Per fortuna fu l'unica a raggiungerla. I tre riuscirono a impedire che gli arcieri avessero una seconda occasione utile e, poco dopo, anche quella parte dello scontro terminò.
+
+Non c'era però tempo per considerarla una vittoria.
+
+[[Morthar]] era ancora sotto attacco.
+
+[[Lyra]] si unì quindi ai protagonisti nel tentativo di radunare quante più persone possibile. A quel punto il luogo più sicuro che riuscissero a individuare era la [[Morthar#Cava|cava]]. Le sue profondità offrivano una protezione che le abitazioni e perfino le mura della città non sembravano più in grado di garantire.
+
+Cominciarono a condurre i superstiti in quella direzione.
+
+Ripassarono dalla rotonda, dove furono costretti ad affrontare altri predoni. Li superarono e continuarono a spingere i civili verso la miniera, cercando di non lasciare indietro nessuno che potesse ancora muoversi.
+
+Tra gli aggressori storditi decisero di portarne con sé uno. Se fosse sopravvissuto e si fosse risvegliato, avrebbe potuto spiegare chi stava attaccando [[Morthar]] e perché.
+
+Quando raggiunsero la [[Morthar#Cava|cava]], nacque un nuovo problema.
+
+Far entrare così tante persone dentro una miniera appena liberata dai pericoli che l'avevano infestata non era semplice. Alcuni abitanti esitavano, altri erano presi dal panico e altri ancora non volevano allontanarsi dalle proprie case. [[Shae'Kirr]] riuscì però a imporsi nel caos con la stessa capacità di comando mostrata davanti al [[Miroslavo|capovillaggio]]. Diede indicazioni chiare, organizzò il movimento delle persone e trasformò una folla spaventata in qualcosa di abbastanza ordinato da poter essere condotto al riparo.
+
+Alla fine i mortharini entrarono.
+
+L'ingresso della [[Morthar#Cava|cava]] venne barricato quanto possibile. All'interno vennero montate tende e recuperate tutte le fonti di luce disponibili, nel tentativo di trasformare le gallerie in un rifugio temporaneo.
+
+Restava il prigioniero.
+
+Nessuno voleva rischiare che si liberasse nel mezzo dell'accampamento. Trovarono quindi un barile vuoto, vi infilarono dentro il predone ancora privo di sensi e richiusero il contenitore, lasciando soltanto alcuni fori abbastanza grandi da permettergli di respirare.
+
+L'interrogatorio avrebbe potuto aspettare il suo risveglio.
+
+Per il momento, l'importante era che una parte di [[Morthar]] fosse ancora viva.
+
+# ELEMENTI MANCANTI:
+
+- Discorso integrale tra [[Shae'Kirr]], [[Lucius]] e [[Juda]] durante la trattativa sulla proroga prima dell'annessione di [[Morthar]].
+- Discorso integrale di [[Shae'Kirr]] fuori dalla casa del [[Miroslavo|capovillaggio]], durante il confronto pubblico che porta alla destituzione di [[Miroslavo]].
+- Contenuto della vera lettera trovata nella valigetta di [[Archimbold]] a casa di [[Anthony]].
+- Riferimento preciso fatto da [[Lucius]] davanti a [[Miroslavo]] e ai protagonisti che convince [[Lyra]] a informare [[Nybo]] delle manomissioni nei registri degli [[Emissari delle Shopilands|emissari]].
